@@ -1,0 +1,4378 @@
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/u:07722c61-7bff-49ca-ba6d-32255fa534d1/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/u:c9828876-31ac-49c8-93df-c1e87992c328/
+ER  - 
+TY  - JOUR
+AU  - M, Dalamagka
+TI  - Protocol of Pain
+PY  - 2021
+DA  - 2021
+JO  - Novel Research in Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/nrs.2021.06.000627
+UR  - https://consensus.app/papers/uploaded/u:3cc9bf46-52f4-4168-b32e-fd1bdcfb9a4b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/u:09264fdf-2f51-43af-a960-daf1465e6607/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/u:4a2435bd-944c-4b69-880f-1914c2326428/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/u:265d3d6f-aec9-4630-b1fb-e94dc1d474b9/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/u:385a0e76-af27-427d-9f1c-bede53c0f113/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2025.15.1.0124
+UR  - https://consensus.app/papers/uploaded/u:fbbc46c9-222f-49a9-ab4e-90d2a5af9467/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/u:51fd906c-ae0d-4c2d-b2cb-30ec591ca6aa/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesia in the elderly with colon cancer and postoperative outcome
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0113
+UR  - https://consensus.app/papers/uploaded/u:cc266463-c934-4d95-8b60-c8f7194504ac/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/u:6e34b745-cc97-4437-980a-f06540cd4ffa/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/u:9752244c-2097-47ea-82e4-8fef899b3359/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/u:9eb1d44e-6514-4429-a53e-33d95cc9704e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Kontovitsis, Ch
+TI  - Report of Open Cholecystectomy in Two Obese Patients with Severe Lung Disease under Awake Thoracic Epidural Anaesthesia
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain Management & Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:30e7b57e-5fb4-4840-8533-149f341b1208/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega Journal of Case Reports
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:400ddeee-7dab-48a7-9546-ce1c033490f0/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Pain Management
+PY  - 2021
+DA  - 2021
+JO  - Annals of Clinical Anesthesia Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:b8f76a02-e0a4-4f64-acf1-0e9bccf6c42f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/uploaded/u:1f4d66b2-9e3e-42ae-a9d4-1f9d6b96535f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega J Case Rep
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:8b33d865-9155-4f06-aa9d-cc72f0edd157/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/u:b8a3f1ed-ba08-4583-9754-0416a9f65f58/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, Vassilios
+AU  - Karakoulas, Konstantinos
+AU  - Vasilakos, Dimitrios
+TI  - Postoperative analgesia after low-frequency electroacupuncture as adjunctive treatment in inguinal hernia surgery with abdominal wall mesh reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/u:59bc6a72-38e2-441c-b77f-bdf1b4c0fb85/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/u:88445fe9-1f9e-499b-9d3c-e60dce336e01/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/u:b2a0d14c-478a-45ea-9d50-296b69da7293/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/u:ca5703ef-4503-4b0b-9176-09568208a819/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/u:37564c69-28da-4be8-bc72-6f1a3b6c6a24/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/u:529d308f-4b78-4490-aa60-8f6221d3b9f9/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/u:bf3bc3a7-2f31-4319-bf2e-6f95da96e60f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/u:9b9d52c4-c12a-47c9-a2be-47331bba2618/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuropathic Pain
+PY  - 2018
+DA  - 2018
+JO  - Archives of Anesthesiology
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:17e0a983-0b64-47f6-b7a6-adf156f03ee5/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary &amp; Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/u:903afcd6-cc6c-404a-a34f-8ea568868f76/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/u:a82afcba-cf52-4608-81ba-3e63aa06b463/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2022.14.3.0625
+UR  - https://consensus.app/papers/uploaded/u:51bfac98-396e-4b3a-8879-2136121d4c58/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:20a7839b-102a-49ec-8278-d8d7be8f3463/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/u:c3057859-89ac-4ce0-a19b-c4476cb0205b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/u:d3551636-ac08-4eb4-ac36-baf44ddf9817/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/u:d5ec8699-f2fe-44dc-8ea8-23a119d25097/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.23.2.2389
+UR  - https://consensus.app/papers/uploaded/u:9a4322ba-21d9-4a37-a4c2-c0a03693de65/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/u:ad0bdf93-114e-418a-b03e-dec88df611da/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/u:c0690c83-8eb3-47e4-bdfa-d5b7b1a61027/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Dimorphic Behavior and cognition
+PY  - 2024
+DA  - 2024
+JO  - Clinical Research and Clinical Trials
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31579/2693-4779/235
+UR  - https://consensus.app/papers/uploaded/u:1dd09842-30a8-4267-8a9e-f65f22ac6193/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/u:fe8b2357-c91c-4d25-880f-365fc76b7cd9/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022-04-30
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/combination-of-ketamine-corticosteroids-and-sevoflurane-dalamagka/05033e9c2a565393bc06cc013ebbf501/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024-08-30
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/antipsychotics-and-anesthetic-drugs-dalamagka/e708f496ddf65687b394dfb8f6ce8658/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, V.
+AU  - Karakoulas, K.
+AU  - Vasilakos, D.
+AU  - Samara, M.
+AU  - Saros, Christos
+AU  - Crommydas, George
+TI  - Postoperative Analgesia after Low-Frequency Electroacupuncture as Adjunctive Treatment in Inguinal Hernia Surgery with Abdominal Wall Mesh Reconstruction
+PY  - 2015
+DA  - 2015-10-01
+JO  - Acupuncture in Medicine
+VL  - 33
+SP  - 360
+EP  - 367
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/postoperative-analgesia-after-lowfrequency-dalamagka-mavrommatis/e6ff18085ba859beb7b812b3be5c80bb/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Konstantinos, Zervas
+TI  - Inhalation Burn, Crush-syndrome and Rhabdomyolysis Syndrome
+PY  - 2018
+DA  - 2018-01-01
+JO  - Journal of Pain and Relief
+VL  - 07
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000332
+UR  - https://consensus.app/papers/inhalation-burn-crushsyndrome-and-rhabdomyolysis-maria-konstantinos/e2d24a2bbbd85ff4a15423fa4072bbd9/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Anastasios, Panagiotidis
+TI  - Duodenal perforation in women 60years of age following receipt of a non-steroidal anti-inflammatory drug
+PY  - 2019
+DA  - 2019-01-31
+JO  - International Journal of Complementary & Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.15406/ijcam.2018.11.00443
+UR  - https://consensus.app/papers/duodenal-perforation-in-women-60years-of-age-following-maria-anastasios/d8216ebebfcb5ab2b355666a68463c01/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024-11-30
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/epilepsy-in-children-and-anesthesia-dalamagka/d45bdb96d25657c8882f17d3900c2dab/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022-05-30
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/obesity-in-children-and-general-anesthesia-dalamagka/cff8f007b70b5887b3bb8d748f931173/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Dementia vs. Alzheimer
+PY  - 2024
+DA  - 2024-01-01
+JO  - ASEAN Journal of Psychiatry
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54615/2231-7805.24.7.11
+UR  - https://consensus.app/papers/dementia-vs-alzheimer-maria/c88f0b4a18b55e768c332be1c184fd72/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024-08-01
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/the-use-of-hypnosis-as-a-tool-for-relieving-pain-dalamagka/ba0bbfaa50565875952bd2b35950795d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024-05-30
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/acupuncture-for-low-back-pain-and-migraine-dalamagka/b366ab4590f25ea094d939023f6638b1/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024-02-28
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/autism-and-general-anesthesia-for-dental-care-dalamagka/aeb6108b78fa53848c9eeea393520c16/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Obesity - COVID-19 and mechanical ventilation of intubated patient
+PY  - 2020
+DA  - 2020-12-26
+JO  - Journal of Clinical Images and Medical Case Reports
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.52768/2766-7820/1002
+UR  - https://consensus.app/papers/obesity-covid19-and-mechanical-ventilation-of-intubated-maria/aa16d1712cad5bcfb19d18f4adf6f1ba/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - 4.0. General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right
+PY  - 2022
+DA  - 
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/40-general-anesthesia-in-geriatric-patients-in-dalamagka/9df6b8c6ff225b99941b5f6685ee6e98/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025-02-28
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/autoimmune-diseases-in-children-and-anesthesia-dalamagka/0438c06b130059dda8ca15fdc78539ac/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - 4.0. Anesthesia in the elderly with colon cancer and postoperative
+PY  - 2022
+DA  - 
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/40-anesthesia-in-the-elderly-with-colon-cancer-and-dalamagka/9d93af8f0cf45a4c921708c84341457a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024-04-30
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/acute-pain-and-analgesia-in-children-dalamagka/8f2d7a8d8c0a5c63ab1ef9140d9e3305/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Christos, Kontovitsis
+TI  - A 31 years-old woman with reflex sympathetic dystrophy syndrome (CPRS)
+PY  - 2014
+DA  - 2014-08-01
+JO  - Acupuncture and Related Therapies
+VL  - 2
+SP  - 57
+EP  - 
+DO  - 10.1016/j.arthe.2014.08.001
+UR  - https://consensus.app/papers/a-31-yearsold-woman-with-reflex-sympathetic-dystrophy-maria-christos/8c129cf996385c94bdaffcf5b1417bdd/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - ACUPUNCTURE
+PY  - 1974
+DA  - 1974-04-01
+JO  - Medical Journal of Australia
+VL  - 1
+SP  - 
+EP  - 
+DO  - 10.5694/j.1326-5377.1974.tb93227.x
+UR  - https://consensus.app/papers/acupuncture-maria/84d050bbd3735f74bb5a75d51cdc766b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024-03-30
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/autistic-spectrum-disorder-and-anaesthesia-dalamagka/840603eb8d235955b5f42c5d48447e80/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Pain and acupuncture
+PY  - 2018
+DA  - 2018-05-29
+JO  - Journal of Complementary Medicine & Alternative Healthcare
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.19080/jcmah.2018.06.555688
+UR  - https://consensus.app/papers/pain-and-acupuncture-maria/72fc2ebfcb1859fc82f2043432a84a64/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022-05-30
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/general-anesthesia-in-geriatric-patients-in-combination-dalamagka/6ee54017b1be5bdca28859301cf5b6eb/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Septic Shock
+PY  - 2022
+DA  - 2022-05-17
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54289/jaad2200107
+UR  - https://consensus.app/papers/septic-shock-maria/6ccb5a2aa87f57b9ad896daeb0db0079/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/pain-control-acupuncture-dalamagka/675bc6b747c55a24ae635b86c1e03eb1/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Physiology of Pain
+PY  - 2022
+DA  - 2022-02-09
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1201/b13383-19
+UR  - https://consensus.app/papers/physiology-of-pain-maria/610d77a306c45b2e8598753cddf6c07b/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Postoperative analgesia after electroacupuncture
+PY  - 2020
+DA  - 2020-01-01
+JO  - Journal of Osteoporosis and Physical Activity
+VL  - 
+SP  - 1
+EP  - 1
+DO  - 
+UR  - https://consensus.app/papers/postoperative-analgesia-after-electroacupuncture-maria/5e5bdce124e35323a405a6335df364c2/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024-06-30
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/anesthesiology-complications-in-children-dalamagka/4c0bf59dddc8501b95808e9c16fcb6e9/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Mild Brain Injury
+PY  - 2022
+DA  - 2022-03-02
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1007/978-3-642-29613-0_100968
+UR  - https://consensus.app/papers/mild-brain-injury-maria/411374ea8f3658af857d7fb5af864de1/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025-01-30
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/pediatric-neurodegenerative-disorders-and-anesthesia-dalamagka/3227aab4a5085609935a576b5851fe4f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024-06-30
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/integrating-traditional-medicine-into-a-modern-health-dalamagka/2d5c0b1135f055aa85d3c9ad0d68c95a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023-01-30
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1016/s0140-6736(46)90985-3
+UR  - https://consensus.app/papers/mechanism-of-pain-dalamagka/2a5941a690b252b2a7d94bd5d3e13593/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024-07-30
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/remifentanil-as-an-anesthetic-agent-in-children-dalamagka/2519e8f78d2e533692ccf0145e4d0b73/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015-08-24
+JO  - Journal of Pain and Relief
+VL  - 2015
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/systematic-review-acupuncture-in-chronic-pain-low-back-dalamagka/2031dd5d1b2358d59a93c99d3a54d3e2/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024-08-30
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/emergence-delirium-in-children-dalamagka/1f62926d17575825b0a8803b836eaff3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022-03-30
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/combined-spinalepidural-cse-technique-plus-ketamine-in-dalamagka/12620b95dcba5eea995f83062628252d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024-05-30
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/covid19-and-mechanical-ventilation-dalamagka/0e8f1de53a3a5c61a0c40823595d9693/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024-04-30
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/etomidate-as-anesthetic-agent-in-asthmatic-child-with-food-dalamagka/0e6f6f2f13205fd6acb650ba5e806beb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024-10-30
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/pathology-associated-with-kidney-failure-and-anesthesia-dalamagka/0a67296e6f185636b46f8f4a172a1c87/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023-02-28
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/acupuncture-electrotherapy-an-alternative-and-dalamagka/0a0ccc4c50965bd6b8f86fee499dd5b3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/u:a8763887-1a4c-4527-acbe-da188c586aa0/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:3f590923-9b54-452f-a0cf-72290a8c87cd/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:ac387c8a-d6a8-442e-a97d-f1b4e68697cc/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:14df435c-bb2b-4784-9778-8b86deddc188/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary &amp; Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/u:c4dbb6c5-bc1e-45ad-a7fe-3a17366b2f39/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuropathic Pain
+PY  - 2018
+DA  - 2018
+JO  - Archives of Anesthesiology
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:63473923-41fb-4020-98a6-375e40b31713/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/u:0f4ba1d2-f375-4126-8e07-f7c43f4062aa/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/u:708f71f5-6fe8-4e3d-9010-b78378ddc28f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Dimorphic Behavior and cognition
+PY  - 2024
+DA  - 2024
+JO  - Clinical Research and Clinical Trials
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31579/2693-4779/235
+UR  - https://consensus.app/papers/uploaded/u:a76ecfb0-835a-45eb-96ad-4db92bd40e64/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/u:ea1e316f-7576-4ef2-9955-c9515d7ed67d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/u:29acf2a4-92f4-423b-8055-726860fb4249/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/u:f310b736-2a3e-4566-9937-185e9d2e9c14/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.23.2.2389
+UR  - https://consensus.app/papers/uploaded/u:5953b505-c553-457b-a5ef-4fd46e398636/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/u:d720bd90-4f93-47c4-a84b-5924903b42ba/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/u:66f4afe7-a0c0-4cb3-a404-59cb725b0dd9/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/u:1e93f8e7-8862-499e-ab61-c06e62a8b158/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary &amp; Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/u:93679418-0beb-4429-b5a7-94e79022b917/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2022.14.3.0625
+UR  - https://consensus.app/papers/uploaded/u:6495919f-bce9-41f6-8aaa-beb034e02fbb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/u:84866c13-7104-489b-9682-8d3b3418cedd/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/u:878196d8-2e0c-4995-a80f-9e6a934bc548/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/u:975bf5f9-dd83-49e4-ab87-72e5f2f3025c/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/u:64ec8a79-aea7-419c-acd5-79f01291fa16/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/u:40d35db5-1cce-4a87-809e-489ba1948e5d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/u:ba530b21-4cd8-415c-861d-79b593c9e99f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/u:1a648584-e9a9-4eb1-811d-3fc682516828/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/u:365114ac-d115-4972-b534-a0892cc9d8cb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, Vassilios
+AU  - Karakoulas, Konstantinos
+AU  - Vasilakos, Dimitrios
+TI  - Postoperative analgesia after low-frequency electroacupuncture as adjunctive treatment in inguinal hernia surgery with abdominal wall mesh reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/u:72eaabb0-a4c6-4d0b-9cae-4ec38d2de5ea/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/u:1f19c230-4685-464a-b02b-70e238e763e6/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/u:217b3a06-a49a-4136-ab37-dac54ab0cf7e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/u:73845d13-ac5e-4a33-956a-34dff1e434cb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/u:ae9aa125-da92-47e8-a0f3-cfafa09e1de0/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/u:74b0f8ef-8d16-4674-a8f6-f1fc175ba791/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/u:cc231c11-4bbb-4ea4-977e-e821281ebdc1/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesia in the elderly with colon cancer and postoperative outcome
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0113
+UR  - https://consensus.app/papers/uploaded/u:406cede6-f2af-4a8b-b47c-d0bc27fe428a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/u:ebefdc2a-83c4-4725-816f-b2858cea0a18/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/u:e704ac1f-766a-415e-a9ff-bfd5844ce880/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2025.15.1.0124
+UR  - https://consensus.app/papers/uploaded/u:b24e7310-b20c-43a0-9db2-6e08dd61d862/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/u:daa827f0-a385-4f2e-a88a-be75271d528d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/u:65f286c0-dfc9-409d-aca3-a168d9ca786f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/u:d2c41eac-e072-415a-b817-22712962ab65/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/u:2b411a23-c162-49fc-ae24-46b1a85afce3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/z:74d130bf0904a9a4/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2025.15.1.0124
+UR  - https://consensus.app/papers/uploaded/z:82ae8dc8681a3fbc/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/z:f8dba37dbb8fb88d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesia in the elderly with colon cancer and postoperative outcome
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0113
+UR  - https://consensus.app/papers/uploaded/z:42d2d34dd6aea332/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/z:2a9cd79e0949f2eb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/z:e4d9a17ddd661007/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/z:dec2d0d566ca3d9f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/z:24e70a867f3d8f00/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, Vassilios
+AU  - Karakoulas, Konstantinos
+AU  - Vasilakos, Dimitrios
+TI  - Postoperative analgesia after low-frequency electroacupuncture as adjunctive treatment in inguinal hernia surgery with abdominal wall mesh reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/z:21de55f00f9c2828/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/z:d2636fe543eea44c/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/z:a94bc89bf16b0c12/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/z:d82a4b55b705b58e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/z:0d50f3dea01987ac/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/z:e5e0429aaa8e60f8/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/z:0a5cf66034eb4f38/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:81876c419cb25b9e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/z:09271cf3ee06f7d6/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/z:38ceeb7847ce6ce3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/z:a2438516717e26bc/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/z:36c5339f47a94f7d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2022.14.3.0625
+UR  - https://consensus.app/papers/uploaded/z:ce4467f83f09f7d9/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:45419533541aae28/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary & Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/z:16ffeddd33733833/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/z:ac1015349f0763bf/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.23.2.2389
+UR  - https://consensus.app/papers/uploaded/z:561ecd5a1bdfaffd/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/z:2d14f1129d40d0a8/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/z:ee2e889fcfd6fe15/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/z:2340521aa789579f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Dimorphic Behavior and cognition
+PY  - 2024
+DA  - 2024
+JO  - Clinical Research and Clinical Trials
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31579/2693-4779/235
+UR  - https://consensus.app/papers/uploaded/z:c0cf8f9328703ae0/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/z:5035facc391a3144/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuropathic Pain
+PY  - 2018
+DA  - 2018
+JO  - Archives of Anesthesiology
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:49d9cfbd173b2407/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary & Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/z:02366fd8dc8a8292/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/z:725db7255442cef7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/z:26e82fbe3ecd19c6/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/z:02c174df587426a3/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:9b3cbc06defe26a7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/z:cadc4d0b9b61ea0f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/z:528c518268ed70fc/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:91349bb1e43b5b8b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/z:53de3fa385c963dd/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Postoperative analgesia after electroacupuncture
+PY  - 2020
+DA  - 2020
+JO  - Journal of Osteoporosis and Physical Activity
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:61ada39850222a0b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/z:f6395feb7a3ff002/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/z:ca19cdebf75a14af/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/z:c8687221f99180db/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/z:679272ed769bb433/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/z:72d7311610cafce0/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/uploaded/z:4230cff9cf25fe13/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Konstantinos, Zervas
+TI  - Inhalation Burn, Crush-syndrome and Rhabdomyolysis Syndrome
+PY  - 2018
+DA  - 2018
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000332
+UR  - https://consensus.app/papers/uploaded/z:68bbd717464199e1/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/z:23e473603144b311/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Physiology of Pain
+PY  - 2022
+DA  - 2022
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1201/b13383-19
+UR  - https://consensus.app/papers/uploaded/z:219b8b702ea24c7d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/z:3922c4ff4d94a180/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:09ae3eeb282df3c3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/z:d984f4059adf8aca/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - ACUPUNCTURE
+PY  - 1974
+DA  - 1974
+JO  - Medical Journal of Australia
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.5694/j.1326-5377.1974.tb93227.x
+UR  - https://consensus.app/papers/uploaded/z:ca0dac52ede6ef51/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:8d582babb5e77116/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1016/s0140-6736(46)90985-3
+UR  - https://consensus.app/papers/uploaded/z:2b1f0d7c956e5d48/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/z:ca0c0f37d59da0bd/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/z:d50ec16cae2fbfed/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Mild Brain Injury
+PY  - 2022
+DA  - 2022
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1007/978-3-642-29613-0_100968
+UR  - https://consensus.app/papers/uploaded/z:4464b80feb067607/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, V.
+AU  - Karakoulas, K.
+AU  - Vasilakos, D.
+AU  - Samara, M.
+AU  - Saros, Christos
+AU  - Crommydas, George
+TI  - Postoperative Analgesia after Low-Frequency Electroacupuncture as Adjunctive Treatment in Inguinal Hernia Surgery with Abdominal Wall Mesh Reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/z:233a2ee63201cc0d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/z:be89810769842c0d/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Anastasios, Panagiotidis
+TI  - Duodenal perforation in women 60years of age following receipt of a non-steroidal anti-inflammatory drug
+PY  - 2019
+DA  - 2019
+JO  - International Journal of Complementary & Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.15406/ijcam.2018.11.00443
+UR  - https://consensus.app/papers/uploaded/z:ae8ff878e3454464/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/z:6a9ade3ab776ac6a/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Dementia vs. Alzheimer
+PY  - 2024
+DA  - 2024
+JO  - ASEAN Journal of Psychiatry
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54615/2231-7805.24.7.11
+UR  - https://consensus.app/papers/uploaded/z:9d70429491b11472/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/z:c0c1768e7944dad5/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/z:855669e0004e174a/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Septic Shock
+PY  - 2022
+DA  - 2022
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54289/jaad2200107
+UR  - https://consensus.app/papers/uploaded/z:16c0adbb4b72a7ae/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Pain and acupuncture
+PY  - 2018
+DA  - 2018
+JO  - Journal of Complementary Medicine & Alternative Healthcare
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.19080/jcmah.2018.06.555688
+UR  - https://consensus.app/papers/uploaded/z:1c012d55a17a9229/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/z:07a227e3c4c3b42d/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Christos, Kontovitsis
+TI  - A 31 years-old woman with reflex sympathetic dystrophy syndrome (CPRS)
+PY  - 2014
+DA  - 2014
+JO  - Acupuncture and Related Therapies
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1016/j.arthe.2014.08.001
+UR  - https://consensus.app/papers/uploaded/z:305112d8145f583e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:3381574beed6ff09/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/z:0655340b549bb705/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - 4.0. Anesthesia in the elderly with colon cancer and postoperative
+PY  - 2022
+DA  - 2022
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:84c9855b5e2d0ce5/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/z:7070331a2885f887/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - 4.0. General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right
+PY  - 2022
+DA  - 2022
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:763b9a6811ed6388/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/z:76144c580c4fa804/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/z:f9017e362d7f49c5/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Dimorphic Behavior and cognition
+PY  - 2024
+DA  - 2024
+JO  - Clinical Research and Clinical Trials
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31579/2693-4779/235
+UR  - https://consensus.app/papers/uploaded/z:790a443017e4027f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/z:5121ef3286b2a62f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/z:277d9dfaaa981f60/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2022.14.3.0625
+UR  - https://consensus.app/papers/uploaded/z:9b582aebc270de9c/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:c304d4f96e30b38b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/z:18d646b6c3b7a212/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/z:e1f377ad15790ad9/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/z:cbe3aad69049c9c3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/z:f2d2d713d489d278/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Obesity - COVID-19 and mechanical ventilation of intubated patient
+PY  - 2020
+DA  - 2020
+JO  - Journal of Clinical Images and Medical Case Reports
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.52768/2766-7820/1002
+UR  - https://consensus.app/papers/uploaded/z:951eb68e1ab54c16/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/z:1e9271099f73a197/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/z:91976bc6244da048/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.23.2.2389
+UR  - https://consensus.app/papers/uploaded/z:467ec3dd67aca0f6/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/z:b277a6f3d94f15b3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:f74de97d1aa58db7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuropathic Pain
+PY  - 2018
+DA  - 2018
+JO  - Archives of Anesthesiology
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:cc699fe4b468aa3f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary & Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/z:8c5319b5b4cc8c28/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/z:711fa6aaa5f6856a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/z:88a6aec83eaff72e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/z:b83916dfce09362f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/z:2fa498a8ade24ea5/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:aaa339ba5068813b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, Vassilios
+AU  - Karakoulas, Konstantinos
+AU  - Vasilakos, Dimitrios
+TI  - Postoperative analgesia after low-frequency electroacupuncture as adjunctive treatment in inguinal hernia surgery with abdominal wall mesh reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/z:cb7db3285003fdb7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/uploaded/z:e71feb57b377e999/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega Journal of Case Reports
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:90e3752f1fb719cc/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Kontovitsis, Ch
+TI  - Report of Open Cholecystectomy in Two Obese Patients with Severe Lung Disease under Awake Thoracic Epidural Anaesthesia
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain Management & Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:ce167466a9e0d3a0/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/z:1f2c815d23c026a2/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesia in the elderly with colon cancer and postoperative outcome
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0113
+UR  - https://consensus.app/papers/uploaded/z:442aaf5e353be840/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/z:338f27f7f556315d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/z:820829b23bb2b737/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2025.15.1.0124
+UR  - https://consensus.app/papers/uploaded/z:57c53c1ee7783c0f/
+ER  - 
+TY  - JOUR
+AU  - M, Dalamagka
+TI  - Protocol of Pain
+PY  - 2021
+DA  - 2021
+JO  - Novel Research in Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/nrs.2021.06.000627
+UR  - https://consensus.app/papers/uploaded/z:47e17332f69ce38f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/z:39318806338b8818/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega J Case Rep
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:e28406c759fdbe6a/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Pain Management
+PY  - 2021
+DA  - 2021
+JO  - Annals of Clinical Anesthesia Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:2266a3ecd38007cb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/z:3ff2e0a4e0d2ff1e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/z:95aecbfb20486238/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/z:a80633b7433242f1/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/z:8407dee62fd3a8df/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/z:df42ec58891f5506/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/z:edeca04500c7e793/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/z:df0275555898db5c/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/z:de987e5d95bced61/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.23.2.2389
+UR  - https://consensus.app/papers/uploaded/z:690872098926c6ec/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:83fc65e51a939637/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:bf39cac570db1afe/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Dimorphic Behavior and cognition
+PY  - 2024
+DA  - 2024
+JO  - Clinical Research and Clinical Trials
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31579/2693-4779/235
+UR  - https://consensus.app/papers/uploaded/z:228573018722921b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/z:102da20c6bf776b8/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/z:c7a648225d08a197/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/z:1abb3bb03544e842/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/z:0c2ade049c1b305e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2022.14.3.0625
+UR  - https://consensus.app/papers/uploaded/z:de22ac94ca5a1dd2/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/z:764f227306fb34a6/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuropathic Pain
+PY  - 2018
+DA  - 2018
+JO  - Archives of Anesthesiology
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:7981b9618d90551d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/z:e8bcbb227818798b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/z:954d32a03b66b15f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/z:d1f1258e2f520c16/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/z:9f2858307ff90785/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:742629b2bb303cb7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega J Case Rep
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:b6c6afbb9c143119/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, Vassilios
+AU  - Karakoulas, Konstantinos
+AU  - Vasilakos, Dimitrios
+TI  - Postoperative analgesia after low-frequency electroacupuncture as adjunctive treatment in inguinal hernia surgery with abdominal wall mesh reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/z:7ebacf29720dfa3f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/z:a47133c7aadc2242/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/uploaded/z:398fd368dfb19117/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Kontovitsis, Ch
+TI  - Report of Open Cholecystectomy in Two Obese Patients with Severe Lung Disease under Awake Thoracic Epidural Anaesthesia
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain Management & Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:edf3e2a72f466aad/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/z:627033eddfcdf8c8/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary & Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/z:d6fe24f66ec14e57/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/z:ff83790c0eae8755/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/z:410b782160bf94a0/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Pain Management
+PY  - 2021
+DA  - 2021
+JO  - Annals of Clinical Anesthesia Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:3e7061430eead6f3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega Journal of Case Reports
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:26466e0bbcb8e57b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesia in the elderly with colon cancer and postoperative outcome
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0113
+UR  - https://consensus.app/papers/uploaded/z:8e19f34616c29aca/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/z:f61c6f585cf4dd13/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/z:46c91676350a1eea/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/z:f9fc6d378b8dbbbd/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/z:011b032e72971f79/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/z:4749bdff7d839123/
+ER  - 
+TY  - JOUR
+AU  - M, Dalamagka
+TI  - Protocol of Pain
+PY  - 2021
+DA  - 2021
+JO  - Novel Research in Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/nrs.2021.06.000627
+UR  - https://consensus.app/papers/uploaded/z:674ebaa99fc0d0bc/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/z:09bd9164f907093a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/z:6773926a0a226e4b/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Christos, Kontovitsis
+TI  - A 31 years-old woman with reflex sympathetic dystrophy syndrome (CPRS)
+PY  - 2014
+DA  - 2014
+JO  - Acupuncture and Related Therapies
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1016/j.arthe.2014.08.001
+UR  - https://consensus.app/papers/uploaded/z:729c01de969df65e/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Anastasios, Panagiotidis
+TI  - Duodenal perforation in women 60years of age following receipt of a non-steroidal anti-inflammatory drug
+PY  - 2019
+DA  - 2019
+JO  - International Journal of Complementary & Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.15406/ijcam.2018.11.00443
+UR  - https://consensus.app/papers/uploaded/z:34cdd95c7aec0b06/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/z:f6d11c001db6ada7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/z:d31ee831ee18edef/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/z:eeaa43ca644b8d84/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Septic Shock
+PY  - 2022
+DA  - 2022
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54289/jaad2200107
+UR  - https://consensus.app/papers/uploaded/z:4af76a3602ce59b7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:fda486ca2b95c53a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/z:2948a247f4421b3e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/z:0a057eeab0162750/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2025.15.1.0124
+UR  - https://consensus.app/papers/uploaded/z:36c9e72ecc9bbd62/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/z:8b7ef02b7ac82759/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/z:b3ef7158b542e0b8/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, V.
+AU  - Karakoulas, K.
+AU  - Vasilakos, D.
+AU  - Samara, M.
+AU  - Saros, Christos
+AU  - Crommydas, George
+TI  - Postoperative Analgesia after Low-Frequency Electroacupuncture as Adjunctive Treatment in Inguinal Hernia Surgery with Abdominal Wall Mesh Reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/z:96f54dc97b571a73/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/uploaded/z:f30a67d9cc15de36/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - ACUPUNCTURE
+PY  - 1974
+DA  - 1974
+JO  - Medical Journal of Australia
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.5694/j.1326-5377.1974.tb93227.x
+UR  - https://consensus.app/papers/uploaded/z:ac02f4b8fe09a89c/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+AU  - Konstantinos, Zervas
+TI  - Inhalation Burn, Crush-syndrome and Rhabdomyolysis Syndrome
+PY  - 2018
+DA  - 2018
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000332
+UR  - https://consensus.app/papers/uploaded/z:9400ea3068a428d0/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/z:f755646d0d4850c4/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/z:fe403ae7f89e0567/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/z:ab913e51a7f033a7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1016/s0140-6736(46)90985-3
+UR  - https://consensus.app/papers/uploaded/z:980e15729f734885/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pathology associated with kidney failure and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0149
+UR  - https://consensus.app/papers/uploaded/z:518f0958d3575e14/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Dementia vs. Alzheimer
+PY  - 2024
+DA  - 2024
+JO  - ASEAN Journal of Psychiatry
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54615/2231-7805.24.7.11
+UR  - https://consensus.app/papers/uploaded/z:d2f4eba2a949e506/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/z:dfef1a83c57914a6/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/z:979a320a02432200/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/z:4532c668e139acf8/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Physiology of Pain
+PY  - 2022
+DA  - 2022
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1201/b13383-19
+UR  - https://consensus.app/papers/uploaded/z:7700a59e3b7ac1d8/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/z:f83bb64af11824e0/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/z:23518562fc45a61e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/z:8e134e51c1bad2f7/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Pain and acupuncture
+PY  - 2018
+DA  - 2018
+JO  - Journal of Complementary Medicine & Alternative Healthcare
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.19080/jcmah.2018.06.555688
+UR  - https://consensus.app/papers/uploaded/z:5a8b727ca5ac2cde/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Mild Brain Injury
+PY  - 2022
+DA  - 2022
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1007/978-3-642-29613-0_100968
+UR  - https://consensus.app/papers/uploaded/z:65fe9cd3a802491f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/z:be0d037ea84b6424/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - 4.0. General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right
+PY  - 2022
+DA  - 2022
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:5a19006f67b14709/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Postoperative analgesia after electroacupuncture
+PY  - 2020
+DA  - 2020
+JO  - Journal of Osteoporosis and Physical Activity
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:3f35d78f1e9fe6cd/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/z:6728514906ec4c8a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/z:b8634430fd834f17/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/z:6510156910cfd0b7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - 4.0. Anesthesia in the elderly with colon cancer and postoperative
+PY  - 2022
+DA  - 2022
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/z:479d584f27fa491c/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Obesity - COVID-19 and mechanical ventilation of intubated patient
+PY  - 2020
+DA  - 2020
+JO  - Journal of Clinical Images and Medical Case Reports
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.52768/2766-7820/1002
+UR  - https://consensus.app/papers/uploaded/z:3da237d43bf61cda/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/z:9e5dee55f5ba6aaf/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/z:e64f04f9d16ef8cf/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - PAIN Treatment
+PY  - 2024
+DA  - 2024
+JO  - Zenodo
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/NRS.2021.06.000627
+UR  - https://consensus.app/papers/uploaded/u:c1e68761-03fc-4804-8fec-b0632dbff67b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Renal failure and Quality of Life Indicators in Kidney Transplantation
+PY  - 2022
+DA  - 2022
+JO  - Annals of Clinical and Medical Case Reports
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:522cc942-2835-48f6-aa73-acbfeb12cf6b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/uploaded/u:74ffc5d0-fad1-4a37-855b-9b8cdf440fb7/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Pain Management
+PY  - 2021
+DA  - 2021
+JO  - Annals of Clinical Anesthesia Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:cbe26a46-bbc6-44be-85a0-5457a13299a5/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - Mild Brain Injury
+PY  - 2022
+DA  - 2022
+JO  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54289/JAAD2200103
+UR  - https://consensus.app/papers/uploaded/u:d4df090d-f328-43a8-a6eb-4c89b593b65f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega J Case Rep
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:216dcc0a-68fc-4a35-baee-3636b3ddd006/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0188
+UR  - https://consensus.app/papers/uploaded/u:5790817d-2b7d-4db3-87fa-dd4f9c3da043/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Remifentanil as an anesthetic agent in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.20.1.0238
+UR  - https://consensus.app/papers/uploaded/u:8d0da24e-36f1-47bf-8d89-568f89d43d97/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Mechanism of Pain
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Biological and Pharmaceutical Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.53346/wjbpr.2023.4.1.0047
+UR  - https://consensus.app/papers/uploaded/u:5374b167-b374-43d1-8be0-814a346fb292/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+PY  - 2023
+DA  - 2023
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2023.17.2.0293
+UR  - https://consensus.app/papers/uploaded/u:04fca281-9483-43c4-a596-38f8f627077b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in children and general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Biological and Pharmaceutical Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscbps.2022.19.2.0206
+UR  - https://consensus.app/papers/uploaded/u:1eeca3c2-41e3-45a2-9340-2ca80406dcf7/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Acupuncture for Depression and Psychological Disorders
+PY  - 2019
+DA  - 2019
+JO  - Advances in Complementary &amp; Alternative Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/acam.2019.04.000577
+UR  - https://consensus.app/papers/uploaded/u:3e761b94-dd25-41f9-b4a0-7ed2245aa86d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.10.3.0073
+UR  - https://consensus.app/papers/uploaded/u:f42465bd-f799-4e26-b8f0-00391da67d7e/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0108
+UR  - https://consensus.app/papers/uploaded/u:bfa33ddc-4eec-413c-8408-dd5389ee3548/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pain control & acupuncture
+PY  - 2022
+DA  - 2022
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2022.14.3.0625
+UR  - https://consensus.app/papers/uploaded/u:fe57c844-efb2-4ed3-b6a4-0317937d1c91/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesia in the elderly with colon cancer and postoperative outcome
+PY  - 2022
+DA  - 2022
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2022.11.1.0113
+UR  - https://consensus.app/papers/uploaded/u:80a3f2bd-b0cd-4857-bed5-958a966b9bad/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autoimmune diseases in children and anesthesia
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Biology and Pharmacy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msabp.2025.14.1.0022
+UR  - https://consensus.app/papers/uploaded/u:c66abbf3-e12c-4b90-b40c-0c9964c39f90/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Integrating traditional medicine into a modern health care system
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1046
+UR  - https://consensus.app/papers/uploaded/u:d2c9519a-f488-4dee-8a6c-2db8f361fa38/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+PY  - 2025
+DA  - 2025
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2025.22.1.0006
+UR  - https://consensus.app/papers/uploaded/u:1ca77973-1476-4dad-aae2-9683175a3c9a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autistic Spectrum disorder and Anaesthesia
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.21.3.0918
+UR  - https://consensus.app/papers/uploaded/u:71a97476-2a22-4843-925e-b0a88075fc69/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/u:cf88bc28-2f68-4464-9b92-ff9f61c111d8/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0125
+UR  - https://consensus.app/papers/uploaded/u:8d3a46bc-9c22-495e-bc26-f8fe391ea18c/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergence Delirium in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.2.1408
+UR  - https://consensus.app/papers/uploaded/u:d7ebcda6-c57e-48fe-b06c-2d7eabaa4623/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acupuncture for low back pain and migraine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.22.2.1540
+UR  - https://consensus.app/papers/uploaded/u:077dd397-bb0c-4fc8-a4eb-63ed4134ef1c/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - COVID-19 and mechanical ventilation
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.2.0186
+UR  - https://consensus.app/papers/uploaded/u:8bde965f-3bcb-48ac-a541-ffcfc2549abc/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Acute Pain and Analgesia in children
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.19.1.0153
+UR  - https://consensus.app/papers/uploaded/u:e17537ad-5450-4f65-a475-3fe2a7c349fb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Anesthesiology complications in children
+PY  - 2024
+DA  - 2024
+JO  - International Journal of Science and Research Archive
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/ijsra.2024.12.1.1179
+UR  - https://consensus.app/papers/uploaded/u:9e87fb97-4c75-4250-8735-f2d4091756f1/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Antipsychotics and anesthetic drugs
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.1.0141
+UR  - https://consensus.app/papers/uploaded/u:60205ee1-7758-4c30-b3a5-0ce62e9a6f9c/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine
+PY  - 2024
+DA  - 2024
+JO  - World Journal of Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/wjarr.2024.23.2.2389
+UR  - https://consensus.app/papers/uploaded/u:e73ea844-81ca-4ee1-9f1f-eaf72f36c36d/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/u:a0594e7f-6cdf-491e-a713-da36e58ee73b/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Kontovitsis, Ch
+TI  - Report of Open Cholecystectomy in Two Obese Patients with Severe Lung Disease under Awake Thoracic Epidural Anaesthesia
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain Management & Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:95d0ebb4-43d6-4441-88a7-503860333db6/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Obesity in Children and General Anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Mega J Case Rep
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:15912fe4-c3e5-454a-9ad5-603c15a80028/
+ER  - 
+TY  - JOUR
+AU  - M, Dalamagka
+TI  - Protocol of Pain
+PY  - 2021
+DA  - 2021
+JO  - Novel Research in Sciences
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31031/nrs.2021.06.000627
+UR  - https://consensus.app/papers/uploaded/u:88ef25f1-531d-4c9c-977e-8292fb1419ba/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, M.
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain andMigraine
+PY  - 2015
+DA  - 2015
+JO  - Journal of Pain and Relief
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.4172/2167-0846.1000195
+UR  - https://consensus.app/papers/uploaded/u:fe2e3988-6ae8-4275-87bb-69f1a21d5b5f/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:7f449f96-edfa-42e3-afa5-4f47f1f43abb/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuropathic Pain
+PY  - 2018
+DA  - 2018
+JO  - Archives of Anesthesiology
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:c0594c02-e98d-44da-b4b7-7057963d9da3/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+PY  - 2024
+DA  - 2024
+JO  - INDIAN JOURNAL OF APPLIED RESEARCH
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.36106/ijar/6115013
+UR  - https://consensus.app/papers/uploaded/u:66d80bac-cb10-49fd-a22c-4aeab77a1fa9/
+ER  - 
+TY  - JOUR
+AU  - Maria, Dalamagka
+TI  - The Quality of Life in Kidney Transplantation
+PY  - 2018
+DA  - 2018
+JO  - International Journal of Anesthesia and Relaxation
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/uploaded/u:923264e4-78c3-4a45-8ad8-44abafc3dc88/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Dimorphic Behavior and cognition
+PY  - 2024
+DA  - 2024
+JO  - Clinical Research and Clinical Trials
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.31579/2693-4779/235
+UR  - https://consensus.app/papers/uploaded/u:00e5064f-25e7-40da-a5f9-da89e9a8d70a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, Vassilios
+AU  - Karakoulas, Konstantinos
+AU  - Vasilakos, Dimitrios
+TI  - Postoperative analgesia after low-frequency electroacupuncture as adjunctive treatment in inguinal hernia surgery with abdominal wall mesh reconstruction
+PY  - 2015
+DA  - 2015
+JO  - Acupuncture in Medicine
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1136/acupmed-2014-010689
+UR  - https://consensus.app/papers/uploaded/u:544c55eb-4729-4a3f-8629-fde3057d20e0/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Neuro and Radiant oncology and anesthesia considerations
+PY  - 2026
+DA  - 2026
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2026.26.1.0015
+UR  - https://consensus.app/papers/uploaded/u:272eef2e-d334-42a0-beab-d836ff859769/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+PY  - 2025
+DA  - 2025
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2025.15.1.0124
+UR  - https://consensus.app/papers/uploaded/u:079077a1-4932-40fe-9f54-2c521c4c5eb9/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Autism and general anesthesia for dental care
+PY  - 2024
+DA  - 2024
+JO  - GSC Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gscarr.2024.18.2.0065
+UR  - https://consensus.app/papers/uploaded/u:4f3fbce4-5b7f-430b-ac52-2d40a003c87a/
+ER  - 
+TY  - JOUR
+AU  - Dalamagka, Maria
+TI  - Epilepsy in children and anesthesia
+PY  - 2024
+DA  - 2024
+JO  - Magna Scientia Advanced Research and Reviews
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/msarr.2024.12.2.0180
+UR  - https://consensus.app/papers/uploaded/u:8bf85904-caa9-4c38-9201-5f032201a6b5/
+ER  - 
