@@ -1,0 +1,1273 @@
+TY  - JOUR
+AU  - Maria Dalamagka
+PY  - 2026
+TI  - My Library - Maria Dalamagka
+ER  -
+TY  - JOUR
+TI  - My Library - 26 Φεβ 2026.ris
+ER  -
+TY  - JOUR
+AB  - Epilepsy, also called seizure disorder, is the most common childhood brain disorder in the United States. The aetiology of epilepsy in children is multifactorial with congenital, metabolic, infective, and problems associated with prematurity being common causes. Nearly 3 million Americans have epilepsy. About 450,000 of them are under 17 years old. About 1 in 200 children (0.5%) have epilepsy, a neurological condition where children have a predisposition to recurrent, unprovoked seizures. There are many different types of epilepsy, especially in infancy, childhood and adolescence. Epilepsy can be thought of in terms of either: the site of seizure origin in the brain (generalised or focal seizures), or the underlying cause. Genetic epilepsies (formerly called idiopathic or primary epilepsies) occur in an otherwise normal person and are due to a genetic predisposition to seizures. Some epilepsies are due to an underlying abnormality of the brain structure or chemistry (formerly called symptomatic or secondary epilepsies). Other epilepsies have no known cause. Epilepsy is commonly diagnosed in children and can be confused with other conditions. An accurate diagnosis is essential. A seizure is an excessive surge of electrical activity in the brain that can cause a variety of symptoms, depending on which parts of the brain are involved. Seizures can be provoked or unprovoked. Provoked seizures, caused by fever in a young child or severe hypoglycemia, are not considered to be forms of epilepsy. Unprovoked seizures have no clear cause but can be related to genetics or brain injury. When a child has two or more unprovoked seizures, epilepsy is often the diagnosis. Despite advances in antiepileptic medication therapy, a significant number of pediatric patients with epilepsy have seizures that are not well controlled. Antiepileptic medications interact with anesthetic agents, and common anesthetics can precipitate or suppress seizure activity. There are important pharmacokinetic and pharmacodynamic interactions between AEDs and drugs commonly used in anaesthesia. These affect both drug efficacy and the risk of seizure activity intraoperatively.
+AU  - Dalamagka, Maria I
+AU  - Scientia, Magna
+DO  - 10.30574/msarr.2024.12.2.0180ï
+KW  - Anesthesia
+KW  - Children
+KW  - Epilepsy
+KW  - Seizures
+KW  - Status epilepticus
+PY  - 2024
+TI  - Epilepsy in children and anesthesia
+T2  - Magna Scientia Advanced Research and Reviews
+UR  - https://doi.org/10.30574/msarr.2024.12.2.0180
+VL  - 12
+ER  -
+TY  - JOUR
+AU  - Maria I
+AU  - Dalamagka
+DO  - 10.30574/gscarr.2024.18.2.0065ï
+KW  - Anaesthesia
+KW  - Autism
+KW  - Dental
+KW  - Disability
+KW  - Epilepsy
+PY  - 2024
+TI  - Autism and general anesthesia for dental care
+UR  - https://hal.science/view/index/docid/5434110
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/msarr.2025.15.1.0124ï
+PY  - 2025
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+UR  - https://hal.science/view/index/docid/5432465
+ER  -
+TY  - JOUR
+AB  - Radiation therapy is a cornerstone treatment for various types of tumors, including those in the nervous system. It uses high-energy rays or particles to destroy or damage cancer cells while attempting to spare surrounding healthy tissues. Depending on the tumor's location and type, radiation therapy can be broadly applied to larger areas like the brain or precisely targeted at smaller, well-defined tumors using techniques such as stereotactic radiosurgery. Advances in medical technology have made radiation therapy more precise, but some risk to the nervous system remains unavoidable. Head and neck cancer (HNC) is the sixth most common human malignancy with a global incidence of 650,000 cases per year. Radiotherapy (RT) is commonly used as an effective therapy to treat tumours as a definitive or adjuvant treatment. Despite the substantial advances in RT contouring and dosage delivery, patients suffer from various radiation-induced complications. Radiation therapy for nervous system tumors can lead to neurological damage, manifesting as acute, early-delayed, and late-delayed symptoms, with varying degrees of severity and impact on quality of life. The degree of neurological damage depends on factors such as the total radiation dose, the duration of treatment, the dose per session, and individual patient characteristics, including age, genetic predisposition, and overall health. For instance, children are more vulnerable to long-term effects due to the developing nature of their nervous systems, while older adults may face increased risks due to preexisting health conditions. Early-delayed effects typically appear weeks to a few months after the initiation of radiation therapy. These symptoms are generally mild and temporary, including: fatigue; ersisting tiredness, even after rest, can impact daily activities, headaches; recurring headaches may signal ongoing swelling or irritation in the brain, nausea; often linked to the continued healing process or residual swelling. In children undergoing whole-brain radiation, early-delayed symptoms can be more pronounced but often subside over time. Corticosteroids can help manage these symptoms, and physical therapy may be introduced to address any emerging motor coordination issues. Late-delayed effects are the most concerning as they occur months or even years after treatment, potentially causing permanent neurological damage. These effects may include: cognitive decline; issues with memory, attention, and problem-solving abilities, personality changes; mood swings, depression, or reduced emotional resilience, motor coordination problems; difficulty with balance or fine motor tasks, spinal cord damage; radiation near the spine may cause late-delayed myelopathy, resulting in sensory loss, muscle weakness, and Lhermitte sign (a shock-like sensation along the spine when bending the neck forward). Children treated for medulloblastoma or other brain tumors are particularly at risk for these effects due to their higher sensitivity to radiation. Long-term cognitive rehabilitation and regular neurological assessments are essential for managing these complications. Neurologic complications can be seen throughout the course of cancer diagnosis and treatment; some toxicities may not develop for years or even decades after completion of treatment, making diagnosis challenging. However, early recognition is critical as modification of therapeutic regimens can diminish long-term consequences of nervous system injury and improve a patient's quality of life. Neoadjuvant therapy consisting of either chemotherapy, radiotherapy or immunotherapy is associated with toxic effects on different organ systems. Before surgery, a comprehensive neurological examination should be performed and documented in patients suspected of having neurotoxicity. In patients with peripheral neuropathy, attention should be paid to autonomic dysregulation, as this might lead to orthostatic hypotension. The use of regional anaesthesia is not contraindicated, but pre-existing neurological GSC Advanced Research and Reviews, 2026, 26(01), 139-149 140 abnormalities should be documented. Because there is a wide variety of ICIs, the anaesthetist should pay attention to specific agents and toxicities.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2026.26.1.0015ï
+IS  - 01
+KW  - Chemotherapy
+KW  - Neoadjuvant Therapy
+KW  - Oncology
+KW  - Radiation Therapy
+KW  - Toxic Effects
+PY  - 2026
+SP  - 139
+EP  - 149
+TI  - Neuro and Radiant oncology and anesthesia considerations
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5463268
+VL  - 2026
+ER  -
+TY  - JOUR
+AB  - Objective: To determine whether an electroacupuncture (EA) technique that was developed for a surgical population under general anaesthesia reduces pain after mesh inguinal hernia open repair. Methods: A total of 54 patients with right or left inguinal hernia were randomised to group I (preoperative, intraoperative, postoperative EA), group II (preoperative, postoperative EA), or a sham control group (group III; preoperative and postoperative placement of needles, but without skin penetration). The Visual Analogue Scale (VAS) (primary outcome) and the State-Trait Anxiety Spielberger Inventory were evaluated preoperatively and at 30 min, 90 min, 10 h and 24 h after surgery. Pain threshold and tolerance were evaluated using an algometer at these same time points and preoperatively before and after EA. Levels of the stress hormones cortisol, corticotrophin and prolactin were determined at 30 min, 90 min and 10 h after surgery and preoperatively before and after EA. Results: The results showed significant differences between the true EA and control groups. The true EA groups (I and II) showed statistically significantly greater improvements in the primary (VAS pain, p<0.05) and secondary outcome measures (Anxiety scale; algometer measurements, p<0.05 and stress hormones, p<0.01) compared to the control group. There were no statistically significant differences between groups I and II. Conclusions: Electroacupuncture reduces postoperative pain after mesh inguinal hernia repair and decreases stress hormone levels and anxiety during the postoperative period. Trial registration number: ClinicalTrials.gov identifier NCT01722253.
+AU  - Dalamagka, Maria
+AU  - Mavrommatis, Christos
+AU  - Grosomanidis, Vassilios
+AU  - Karakoulas, Konstantinos
+AU  - Vasilakos, Dimitrios
+DA  - 2015/10//
+DO  - 10.1136/acupmed-2014-010689
+IS  - 5
+PB  - BMJ Publishing Group
+PY  - 2015
+SP  - 360
+EP  - 367
+TI  - Postoperative analgesia after low-frequency electroacupuncture as adjunctive treatment in inguinal hernia surgery with abdominal wall mesh reconstruction
+T2  - Acupuncture in Medicine
+VL  - 33
+ER  -
+TY  - JOUR
+AB  - Sexual differences in the structure and functions of the human brain have been the subject of much speculation ever since the time of Greek antiquity. Aristotle, designated the moment at which the male fetus receives its soul at the 40th day of gestation, whereas the female fetus was supposed to become antimated only six weeks later, around the 80th day of pregnancy. In the course of 19th century, the interest in the sexual dimorphism of the human brain grew rapidly. The first studies reported that the male brains were larger and more asymmetrical than the female brains and that men had relatively more brain substance in front of the central sulcus than behind. The existence of these comparatively minor nad seemingly random morphological sex differences in the human brain were often used in support of the biological view of that era, that men were intellectually superior to women nad that white upperclass people were superior to the other races and lower classes.
+AU  - Dalamagka, Maria I
+DO  - 10.31579/2693-4779/235ï
+IS  - 2
+KW  - X-chromosome
+KW  - behavior
+KW  - human brain
+KW  - sex hormones
+PY  - 2024
+SP  - 11
+EP  - 11
+TI  - Dimorphic Behavior and cognition
+T2  - Clinical Research and Clinical Trials
+UR  - www.auctoresonline.org
+ER  -
+TY  - JOUR
+AB  - The health-related quality of life (HRQL) contains many aspects under patients' health as physical, psychological, social function and a general prosperity. Numerous clinical studies have established the importance of quality of life in various diseases. It is extremely popular to assess the quality of life in clinical trials as a measure of the subjective state of health of patients. The HRQL, also gradually recognized as an important measure of outcome after organ transplantation. Along with other indicators related to the improvement of patient and graft survival, quality of life has been assessed as a valid outcome measure. Investigations on the quality of life are aimed to lead to a broader view of subjective health, consider that health is a puzzle of the general welfare. Kidney transplantation is the treatment of choice in end stage renal failure. Progress in renal transplantation and immunosuppressive therapies have increased significantly in recent decades, resulting in allograft survival rates at one year is now over 90%. The main goal of transplantation is to achieve maximum quality and longevity while minimizing the impact of disease and health care costs. In general, the quality of life improved after successful renal transplantation compared with patients on dialysis, and the result was more pronounced in men than in women. In these studies it seems clear that renal transplantation is not only cheaper replacement therapy over time, but also linked to lower mortality and better quality of life for patients. Abstract Introduction
+PY  - 2018
+TI  - International Journal of Anesthesia and Relaxation The Quality of Life in Kidney Transplantation Dalamagka Maria
+ER  -
+TY  - JOUR
+AB  - Remifentanil hydrochloride is an ultra-short-acting opioid that undergoes rapid metabolism by tissue and plasma esterases. Remifentanil is increasingly used as an adjuvant to general anaesthesia in neonates undergoing surgery because of its favourable haemodynamic and respiratory effects compared with other agents. The pharmacokinetic profile of remifentanil appears well suited for use in the sedation of children for short, day case procedures and remifentanil has been demonstrated to be an attractive drug for this purpose. Owing to higher clearances, younger children will require higher infusion rates of remifentanil than older children and adults to achieve equivalent plasma concentrations. Propofol and remifentanil appear to be gaining popularity for short procedures in children. Together they provide sedation, anxiolysis and analgesia, possibly best provided by separate continuous infusions. They also promote haemodynamic stability, minimal respiratory depression, with a rapid recovery profile. The use of remifentanil in neonates and young infants is increasing despite the difficulties in obtaining high standard objective evidence in this age group. Remifentanil’s pharmacokinetic and pharmacodynamic profile in this age group is similar to that of older children, which may have several theoretical advantages. Reports of a rapid development of µ-receptor tolerance with remifentanil are in conflict; activity at δ-opioid receptors may contribute. Remifentanil produce a fall in blood pressure and cardiac index, mainly as a result of a fall in heart rate. Although atropine is able to reduce the fall in heart rate, is not able to prevent completely the reduction in cardiac index. Remifentanil has been described as a titratable opioid. It has been reported to be ideally suited to the sedation of selected neurosurgical patients who require frequent neurological examinations. It may also provide suitable analgesia based sedation in mechanically ventilated children postoperatively.
+AU  - Maria I Dalamagka
+DA  - 2024/7//
+DO  - 10.30574/gscarr.2024.20.1.0238
+IS  - 1
+PB  - GSC Online Press
+PY  - 2024
+SP  - 001
+EP  - 004
+TI  - Remifentanil as an anesthetic agent in children
+T2  - GSC Advanced Research and Reviews
+VL  - 20
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.36106/ijar/6115013ï
+SN  - 1978;21:6467
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+UR  - https://hal.science/view/index/docid/5432521
+ER  -
+TY  - RPRT
+AU  - Dalamagka, Maria
+PY  - 2018
+TI  - Archives of Anesthesiology, 2018. ï¿¿hal-05432534ï¿¿ Archives of Anesthesiology V1
+UR  - https://hal.science/view/index/docid/5432534
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - The health-related quality of life (HRQL) contains many aspects under patients' health as physical, psychological, social function and a general prosperity. Numerous clinical studies have established the importance of quality of life in various diseases. It is extremely popular to assess the quality of life in clinical trials as a measure of the subjective state of health of patients. The HRQL, also gradually recognized as an important measure of outcome after organ transplantation. Along with other indicators related to the improvement of patient and graft survival, quality of life has been assessed as a valid outcome measure. Investigations on the quality of life are aimed to lead to a broader view of subjective health, consider that health is a puzzle of the general welfare. Kidney transplantation is the treatment of choice in end stage renal failure. Progress in renal transplantation and immunosuppressive therapies have increased significantly in recent decades, resulting in allograft survival rates at one year is now over 90%. The main goal of transplantation is to achieve maximum quality and longevity while minimizing the impact of disease and health care costs. In general, the quality of life improved after successful renal transplantation compared with patients on dialysis, and the result was more pronounced in men than in women. In these studies it seems clear that renal transplantation is not only cheaper replacement therapy over time, but also linked to lower mortality and better quality of life for patients. Abstract Introduction
+AU  - Dalamagka, Maria
+DO  - 10.13140/RG.2.2.36805.15846ï
+IS  - 2
+PY  - 2018
+SP  - 12
+EP  - 18
+TI  - The Quality of Life in Kidney Transplantation
+T2  - International Journal of Anesthesia and Relaxation
+UR  - https://hal.science/view/index/docid/5432543
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - Acupuncture is widely used for chronic pain. The aim of the study was to assess the effectiveness of acupuncture as a treatment of chronic pain, within the context of the methodological quality of the studies. Complementary medicine databases, bibliographies and articles were searched. ,
+DO  - 10.4172/2167-0846.1000195
+IS  - 05
+PB  - OMICS Publishing Group
+PY  - 2015
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain and Migraine
+T2  - Journal of Pain & Relief
+VL  - 04
+ER  -
+TY  - JOUR
+AB  - Chronic kidney disease (CKD) is defined as either a glomerular filtration rate (GFR) of <60 ml min−1 1.73 m−2 for 3 months or more, irrespective of cause, or kidney damage leading to a decrease in GFR, present for 3 months or more. The damage may manifest as abnormalities in the composition of blood or urine, on radiological imaging, or in histology. CKD is classified into five stages depending on GFR, ranging from Stage 1-normal GFR to Stage 5-established renal failure. Patients with kidney disease undergoing surgery and anesthesia are at high risk for increased adverse events that include, cardiovascular complications and mortality, and further deterioration of renal function and development of acute kidney injury (AKI) due to perioperative injuries that are caused by hemodynamic instability, hypovolemia, or drug toxicity. Special consideration should be placed on preventing further deterioration of renal function as well as protection of existing renal function in patients with moderate to severe impairment from the effects of anesthetics and pain medications. Analgesics such as nonsteroidal anti-inflammatory drugs (NSAIDs) can contribute to a reduction of the residual renal function in CKD and should be avoided. Renal IR injury is a risk factor for acute renal failure and delayed graft function. Pathogenic factors for renal IR include, but are not limited to, the following: oxidative stress, inflammation, cellular necrosis, and apoptosis. Further clinical studies are required to address the optimal medication regimen that can be used for postoperative pain management in the more severe stages of CKD, including hemodialysis.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/msarr.2024.12.1.0149ï
+IS  - 01
+KW  - Acute kidney injury
+KW  - Chronic kidney disease
+KW  - GFR
+KW  - Renal function
+PY  - 2024
+SP  - 106
+EP  - 109
+TI  - Pathology associated with kidney failure and anesthesia Corresponding author: Maria I. Dalamagka Pathology associated with kidney failure and anesthesia
+T2  - Magna Scientia Advanced Research and Reviews
+UR  - https://doi.org/10.30574/msarr.2024.12.1.0149
+VL  - 12
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria
+DO  - 10.31031/nrs.2021.06.000627ï
+PY  - 2021
+TI  - Protocol of Pain
+T2  - Protocol of Pain. Novel Research in Sciences
+UR  - https://hal.science/view/index/docid/5433483
+VL  - 6
+ER  -
+TY  - JOUR
+AB  - Radiation therapy is a cornerstone treatment for various types of tumors, including those in the nervous system. It uses high-energy rays or particles to destroy or damage cancer cells while attempting to spare surrounding healthy tissues. Depending on the tumor's location and type, radiation therapy can be broadly applied to larger areas like the brain or precisely targeted at smaller, well-defined tumors using techniques such as stereotactic radiosurgery. Advances in medical technology have made radiation therapy more precise, but some risk to the nervous system remains unavoidable. Head and neck cancer (HNC) is the sixth most common human malignancy with a global incidence of 650,000 cases per year. Radiotherapy (RT) is commonly used as an effective therapy to treat tumours as a definitive or adjuvant treatment. Despite the substantial advances in RT contouring and dosage delivery, patients suffer from various radiation-induced complications. Radiation therapy for nervous system tumors can lead to neurological damage, manifesting as acute, early-delayed, and late-delayed symptoms, with varying degrees of severity and impact on quality of life. The degree of neurological damage depends on factors such as the total radiation dose, the duration of treatment, the dose per session, and individual patient characteristics, including age, genetic predisposition, and overall health. For instance, children are more vulnerable to long-term effects due to the developing nature of their nervous systems, while older adults may face increased risks due to preexisting health conditions. Early-delayed effects typically appear weeks to a few months after the initiation of radiation therapy. These symptoms are generally mild and temporary, including: fatigue; ersisting tiredness, even after rest, can impact daily activities, headaches; recurring headaches may signal ongoing swelling or irritation in the brain, nausea; often linked to the continued healing process or residual swelling. In children undergoing whole-brain radiation, early-delayed symptoms can be more pronounced but often subside over time. Corticosteroids can help manage these symptoms, and physical therapy may be introduced to address any emerging motor coordination issues. Late-delayed effects are the most concerning as they occur months or even years after treatment, potentially causing permanent neurological damage. These effects may include: cognitive decline; issues with memory, attention, and problem-solving abilities, personality changes; mood swings, depression, or reduced emotional resilience, motor coordination problems; difficulty with balance or fine motor tasks, spinal cord damage; radiation near the spine may cause late-delayed myelopathy, resulting in sensory loss, muscle weakness, and Lhermitte sign (a shock-like sensation along the spine when bending the neck forward). Children treated for medulloblastoma or other brain tumors are particularly at risk for these effects due to their higher sensitivity to radiation. Long-term cognitive rehabilitation and regular neurological assessments are essential for managing these complications. Neurologic complications can be seen throughout the course of cancer diagnosis and treatment; some toxicities may not develop for years or even decades after completion of treatment, making diagnosis challenging. However, early recognition is critical as modification of therapeutic regimens can diminish long-term consequences of nervous system injury and improve a patient's quality of life. Neoadjuvant therapy consisting of either chemotherapy, radiotherapy or immunotherapy is associated with toxic effects on different organ systems. Before surgery, a comprehensive neurological examination should be performed and documented in patients suspected of having neurotoxicity. In patients with peripheral neuropathy, attention should be paid to autonomic dysregulation, as this might lead to orthostatic hypotension. The use of regional anaesthesia is not contraindicated, but pre-existing neurological GSC Advanced Research and Reviews, 2026, 26(01), 139-149 140 abnormalities should be documented. Because there is a wide variety of ICIs, the anaesthetist should pay attention to specific agents and toxicities.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2026.26.1.0015ï
+IS  - 01
+KW  - Chemotherapy
+KW  - Neoadjuvant Therapy
+KW  - Oncology
+KW  - Radiation Therapy
+KW  - Toxic Effects
+PY  - 2026
+SP  - 139
+EP  - 149
+TI  - Neuro and Radiant oncology and anesthesia considerations
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5463268
+VL  - 2026
+ER  -
+TY  - JOUR
+AB  - Emergency defines the potential provision of rapid and effective Medical Nursing Care, in situations where life is threatened. Emergency medicine is defined as the branch of Medicine that operates within an organized EMS. Emergency Medicine System (EMS) is defined as the organized set of provision of immediate pre-hospital, in-hospital and inter-hospital care. Objectives of Emergency Medicine are the provision of an integrated system of pre-hospital, in-hospital and inter-hospital emergency care; improving the quality of emergency medical care; reduction of mortality, morbidity and disability related to injury and sudden illness. Collection of epidemiological data related to accident prevention and health promotion.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2024.23.2.2389ï
+IS  - 02
+KW  - Airway
+KW  - CPR.
+KW  - Emergency Medicine
+KW  - Trauma
+PY  - 2024
+SP  - 394
+EP  - 401
+TI  - Corresponding author: Maria I. Dalamagka Emergency Medicine
+T2  - Emergency Medicine. World Journal of Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432486
+VL  - 23
+ER  -
+TY  - JOUR
+AB  - Psychiatric illness is common, affecting up to 10% of the population, with around 1% diagnosed with a major psychiatric disorder. An increased mortality rate in the postoperative period for schizophrenic patients receiving chronic antipsychotic therapy has been demonstrated. According to the Diagnostic and Statistical Manual of Disease, schizophrenia-associated psychotic disorders are characterized by disturbances in emotional, behavioral and cognitive arenas, impeding on nearly every aspect of life functioning in the form of thought disorders, delusions and hallucinations. Chronic schizophrenic patients lack pain sensitivity, and have pituitary-adrenal and autonomic nerve dysfunction, abnormalities of the immune system, and water intoxication. These alterations may influence postoperative outcome. Psychotropic drugs often given in combination with each other or with other non-psychiatric drugs generally exert profound effects on the central and peripheral neurotransmitter and ionic mechanisms. The increased complications are associated with physical disorders, antipsychotic or hazardous health behaviour and interactions between antipsychotics and anaesthetic drugs. Adverse responses during anaesthesia include arrhythmias, hypotension, prolonged narcosis or coma, hyperpyrexia, post-operative ileus and post-operative confusion. Although drug interaction probably remains the most potentially serious problem current evidence suggests that psychiatric medication need not be discontinued prior to anesthesia.
+AU  - Dalamagka, Maria I
+AU  - Scientia, Magna
+DO  - 10.30574/msarr.2024.12.1.0141ï
+KW  - Cognitive dysfunction
+KW  - Mental health
+KW  - Psychiatric medication
+KW  - Schizophrenia
+PY  - 2024
+TI  - Antipsychotics and anesthetic drugs
+T2  - Magna Scientia Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432481
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - General anesthesia is defined by the American Society of Anesthesiologists as a "drug induced loss of consciousness during which patients are not arousable, even by painful stimulation". The perioperative period, immediately before, during, and after surgery, is a particularly critical time for pediatric patients. Even though anesthesia today is much safer than it has ever been, all anesthesia has an element of risk. General anesthesia has been safely given to children for many years. Improvements in inhalational and intravenous agents have increased the safety profile of general anesthesia and complication rates are low. General anesthesia has also allowed children to undergo painful or anxiety inducing procedures. General anesthesia is a complete loss of consciousness with amnesia, analgesia and neuromuscular blockade. It can be divided into three phases: induction, maintenance and emergence. Induction usually occurs with inhalational anesthetic in children until intravenous access occurs. Propofol, etomidate and ketamine are often used for induction. Maintenance of anesthesia occurs with inhalational or intravenous medications. Common inhalational anesthetics include nitrous oxide, sevoflurane or desflurane. Common intravenous medications used for maintenance are propofol and remifentanil. Typical complications in pediatric anesthesia are respiratory problems, medication errors, difficulties with the intravenous puncture and pulmonal aspiration. In the postoperative setting, nausea and vomiting, pain, and emergence delirium can be mentioned as typical complications. Side effects of anesthesia may include nausea, vomiting, drowsiness, muscle soreness and sore throat. Rare but more serious complications include adverse reactions that affect breathing, allergic reactions and irregular heart rhythms. Airway and respiratory events are the most common perioperative complications in pediatric patients. Several studies have reported on the incidence of pediatric airway-related complications. Consistently reported risk factors for serious airway complications include very young age and multiple intubation attempts. Laryngospasm was the most common cause of respiratory related arrests. Other etiologies included airway obstruction, difficult intubation, esophageal intubation, and aspiration.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/ijsra.2024.12.1.1179ï
+IS  - 01
+KW  - Anaesthesia
+KW  - Complications
+KW  - Intubation
+KW  - Laryngospasm
+KW  - Pain.
+KW  - Vomiting
+PY  - 2024
+SP  - 2924
+EP  - 2927
+TI  - Anesthesiology complications in children
+T2  - International Journal of Science and Research Archive
+UR  - https://doi.org/10.30574/ijsra.2024.12.1.1179
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Acute pain is a complex process involving activation of nociceptors, chemical mediators and inflammation. All the major children's hospitals now have dedicated pain services to provide evaluation and immediate treatment of pain in any child. Children experience pain in a similar way to adults. Pain intensity in children depends on the surgical procedure itself but also on numerous other factors such as age, emotional state or the level of anxiety associated with the hospital stay. The perception and communication of the child's pain depends on his or her intellectual and social development. Expression of pain therefore relies on the child's ability to understand, quantitate and communicate it. Previous pain experiences or chronic diseases that required many medical procedures may significantly change the pain threshold in paediatric patients. Moreover, genetic predispositions and environmental effects are significant. The American Academy of Pediatrics and the American Pain Society have reiterated the importance of a multidisciplinary approach in order to eliminate pain in children. In all pediatric settings, an adequate assessment is the initial stage in a proper clinical approach to pain, especially in the emergency departments; therefore, an increasing number of age-related tools have been validated. Systemic opioids, nonsteroidal anti-inflammatory agents and regional analgesics alone or combined with additives are currently used to provide effective postoperative analgesia. These modalities are best utilized when combined as a multimodal approach to treat acute pain in the perioperative setting. The total number of behaviors that are present in the child are used to estimate his/her pain at the time of assessment. Pain assessment is important to facilitate effective postoperative pain management in these vulnerable children. The purpose of this study is to investigate acute pain as well as analgesia and availability of the used analgesic drugs in children. A multimodal approach to preventing and treating pain is usually used.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.19.1.0153ï
+IS  - 01
+KW  - Analgesia
+KW  - Anesthesia
+KW  - Children
+KW  - Drugs
+KW  - Pain
+KW  - Surgery
+PY  - 2024
+SP  - 161
+EP  - 164
+TI  - Acute Pain and Analgesia in children
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432479
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - Mechanical ventilation (MV) is used to treat patients with severe coronavirus disease 2019 (COVID-19). This severe respiratory illness, typically develops 8 days after symptom onset and when it does not respond to non-invasive respiratory support, it requires advanced respiratory support, including high concentrations of inspired oxygen and mechanical ventilation. Such therapies are also required for the acute respiratory distress syndrome (ARDS), which has been widely studied over several decade. Obesity as a disease causes a restrictive lung disease and is a sufficient predisposing factor for difficult ventilation. Higher BMI patients are more likely to be young, with single organ failure, less chronic comorbidity but with increased severity of hypoxemia at presentation. Severe respiratory failure from coronavirus disease 2019 pneumonia not responding to non-invasive respiratory support requires mechanical ventilation. Although ventilation can be a life-saving therapy, it can cause further lung injury if airway pressure and flow and their timing are not tailored to the respiratory system mechanics of the individual patient. The phenomenon of "hard lung" is observed as the ventilation of the intubated patient is very arduous and recruitment requires a lot of effort. Coronavirus disease 2019-induced acute respiratory distress syndrome is more severe in morbidly obese patients. This relationship between BMI and mortality was investigated by several observational studies, but the relationship was not universally observed. Some studies found increased BMI was associated with an increased risk of requiring intubation and ventilation, but with no clear relationship with mortality. The combination is quite difficult as these patients oppose the ventilator. Our objective was to determine the association between MV for treatment of COVID-19.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.19.2.0186ï
+IS  - 02
+KW  - ARDS
+KW  - COVID-19
+KW  - MV
+KW  - Obesity
+KW  - Pneumonia
+KW  - Ventilation
+PY  - 2024
+SP  - 204
+EP  - 207
+TI  - COVID-19 and mechanical ventilation
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432471
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - To cite this version: Maria I Dalamagka. Acupuncture for low back pain and migraine. Abstract Acupuncture has been increasingly used as an integrative or complementary therapy for pain. It is well-tolerated with little risk of serious adverse effects. Traditional acupuncture and nontraditional techniques, such as electroacupuncture and dry needling, often result in reported pain improvement. Acupuncture is an ancient Chinese medical practice that involves inserting thin needles into specific points on the body. Acupuncture can be used to treat a wide range of health conditions, including migraines and low back pain. Acupuncture works by stimulating the nervous system, releasing endorphins and increasing blood flow to the affected area. Acupuncture may also help to reduce inflammation and improve circulation in the body. Controlled trials have been published on pain syndromes, such as acupuncture for acute and chronic low back pain, knee osteoarthritis, headache, myofascial pain, neck pain, and fibromyalgia. For some conditions, enough data are available for systematic evaluations or meta-analyses. Acupuncture may provide modest benefits in the treatment of chronic low back pain, tension headache and chronic headache, migraine headache prophylaxis, and myofascial pain.The benefits of acupuncture for people with back pain has been well researched compared to many other conditions, with more higher quality clinical trials. This systematic review will focus on the use of acupuncture and its role in the treatment of low back pain to help better guide physicians in their practice. To determine the effects of a policy of 'use acupuncture' on headache, health status and chronic pain. The results of this study will determine if acupuncture, alone or as an adjunct to pharmacotherapy provides effective, safe and acceptable pain relief for patients.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2024.22.2.1540ï
+KW  - Acupuncture
+KW  - Complementary.
+KW  - Medicine
+KW  - Migraine
+KW  - Pain
+KW  - Therapy
+PY  - 2024
+SP  - 1269
+EP  - 1274
+TI  - Acupuncture for low back pain and migraine Corresponding author: Maria I. Dalamagka Acupuncture for low back pain and migraine
+T2  - World Journal of Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432453
+VL  - 22
+ER  -
+TY  - JOUR
+AB  - Delirium after anesthesia, also known as emergence delirium (ED) is a clinical condition in which patients have alterations to their attention, awareness, and perceptions. In children, this often results in behavioral disturbances such as crying, sobbing, thrashing and disorientation. Emergence Agitation (EA) and Emergence Delirium (ED) are commonly used interchangeably; they describe two distinct conditions with emergence delirium being described in the anesthesia literature as a state of mental confusion, agitation, and dis-inhibition marked by some degree of hyper-excitability during recovery from general anesthesia. The commonly reported incidence of emergence delirium is about 10% to 30% of paediatric patients. Risk factors associated with emergence delirium are age, preexisting behaviours, types of surgery and the use of volatile anaesthesia. Transient agitation-delirium from sevoflurane anesthesia can lead to a variety of adverse events, such as airway spasm, shedding or displaced tracheal tube, dehiscence, or bleeding. Volatile anaesthetics may affect brain activity by interfering with the balance between neuronal synaptic inhibition and excitation in the central nervous system. Elevated postoperative pain has been suggested to underlie ED. But given that ED is seen in patients undergoing MRI, pain cannot be the sole cause. Treatment options include the use of premedication, analgesic adjuvants, single dose of propofol at the conclusion of the case. Midazolam premedication, intraoperative dexmedetomidine and fentanyl were associated with lower incidence of ED. The incidence of ED in patients receiving propofol is markedly lower than those receiving sevoflurane, despite the similar rapid emergence profile of both agents. Paediatric Assessment of Emergence Delirium (PAED) scale, developed specifically for children, is a valid and reliable scale. Watcha score is a simpler, reliable tool to measure emergence behaviour. There has been considerable progress in the neuroscience of anaesthesia and the application of new pharmacological agents, but the mystery behind the exact mechanism of ED is elusive. ED is a diagnosis of exclusion once other causes have been dismiss. There is no strong evidence of long-term effects and outcomes in children who developed emergence delirium after anesthesia. Prevention may be the best treatment but no one medication is entirely effective.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/ijsra.2024.12.2.1408ï
+IS  - 02
+KW  - Agitation
+KW  - Anesthesia
+KW  - Emergence delirium
+KW  - Volatile anesthesia
+PY  - 2024
+SP  - 1577
+EP  - 1581
+TI  - Emergence Delirium in children
+T2  - International Journal of Science and Research Archive
+UR  - https://hal.science/view/index/docid/5434269
+VL  - 12
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.19.1.0125ï
+KW  - Allergic
+KW  - Astma
+KW  - Child
+KW  - Etomidate
+KW  - Intubation
+KW  - Ketamine
+PY  - 2024
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+UR  - https://doi.org/10.30574/gscarr.2024.19.1.0125
+ER  -
+TY  - JOUR
+AB  - Acute pain is a complex process involving activation of nociceptors, chemical mediators and inflammation. All the major children’s hospitals now have dedicated pain services to provide evaluation and immediate treatment of pain in any child. Children experience pain in a similar way to adults. Pain intensity in children depends on the surgical procedure itself but also on numerous other factors such as age, emotional state or the level of anxiety associated with the hospital stay. The perception and communication of the child’s pain depends on his or her intellectual and social development. Expression of pain therefore relies on the child’s ability to understand, quantitate and communicate it. Previous pain experiences or chronic diseases that required many medical procedures may significantly change the pain threshold in paediatric patients. Moreover, genetic predispositions and environmental effects are significant. The American Academy of Pediatrics and the American Pain Society have reiterated the importance of a multidisciplinary approach in order to eliminate pain in children. In all pediatric settings, an adequate assessment is the initial stage in a proper clinical approach to pain, especially in the emergency departments; therefore, an increasing number of age-related tools have been validated. Systemic opioids, nonsteroidal anti-inflammatory agents and regional analgesics alone or combined with additives are currently used to provide effective postoperative analgesia. These modalities are best utilized when combined as a multimodal approach to treat acute pain in the perioperative setting. The total number of behaviors that are present in the child are used to estimate his/her pain at the time of assessment. Pain assessment is important to facilitate effective postoperative pain management in these vulnerable children. The purpose of this study is to investigate acute pain as well as analgesia and availability of the used analgesic drugs in children. A multimodal approach to preventing and treating pain is usually used.
+AU  - Maria I. Dalamagka
+DA  - 2024/4//
+DO  - 10.30574/gscarr.2024.19.1.0153
+IS  - 1
+PB  - GSC Online Press
+PY  - 2024
+SP  - 161
+EP  - 164
+TI  - Acute Pain and Analgesia in children
+T2  - GSC Advanced Research and Reviews
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - One of the groups of patients which may require the greatest flexibility of approach is those with autistic spectrum disorder (ASD). ASD is a lifelong developmental disability, affecting four times as many males than females, which affects how a person communicates with, and relates to, other people and the world around them. Challenging behaviors may be triggered by the unfamiliar perioperative environment and may make anesthesia related procedures difficult or impossible. Children with more severe ASD may exhibit verbal or physical aggression, antisocial or disruptive behavior, temper tantrums, screaming, panic attacks, and self-injurious behavior, and may have aberrant responses to sensory stimuli. Although anaesthesia and sedation do not present a problem for most children with ASD, unpredictable regression in skills and behaviour is noted in a small number of patients after general anaesthesia. A 10-year-old child, 53 kg, with autism under treatment, came for a dental abscess and related dental work under general anaesthesia. The pediatric neurological assessment indicated hyperactivity and lack of cooperation. Post-operatively, during resuscitation, the child showed agitation and an attempt to withdraw oxygen, with the physical presence of his family environment.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2024.21.3.0918ï
+KW  - ASD
+KW  - Anaesthesia
+KW  - Autism
+KW  - Behavior
+KW  - Disability
+KW  - Epilepsy
+PY  - 2024
+SP  - 1656
+EP  - 1658
+TI  - Autistic Spectrum disorder and Anaesthesia Corresponding author: Maria I. Dalamagka Autistic Spectrum disorder and Anaesthesia
+T2  - Autistic Spectrum disorder and Anaesthesia. World Journal of Advanced Re-search and Reviews
+UR  - https://hal.science/view/index/docid/5434068
+VL  - 21
+ER  -
+TY  - JOUR
+AB  - Pediatric neurodegenerative disorders encompass a wide range of conditions that result from progressive damage to cells and nervous system connections that are essential for mobility, coordination, strength, sensation, and cognition. Neurodegenerative diseases affect millions of people worldwide. Neurological disorders are disorders that involve the brain, spinal cord or nerve and muscle. Children with neurological disorders may have disorders such as epilepsy, developmental delay, cerebral palsy, meningitis, genetic/metabolic diseases or diseases of muscle or nerve such as muscular dystrophy or peripheral neuropathy. These illnesses are frequently severe and potentially have long lasting consequences for the affected children. The pathologies most frequently responsible for psycho-physical disorders can be summarized into three groups: collaboration difficulties (autism spectrum disorders, intellectual impairment, phobia); motor dysfunction (cerebral palsy, epilepsy, other brain pathologies, neuromuscular disorders), and craniofacial anomalies (Down syndrome, other genetic syndromes). Due to their clinical history, and the lack of collaboration, in pediatric non-cooperative patients with Special Needs (SN), the anesthesiological risk may result difficult to assess, despite the fact that they meet the criteria of the outpatient management applied for the patient without disabilities. The perioperative management of pediatric patients with psycho-physical disorders with related relational and cognitive problems must be carefully planned, in order to make the entire hospitalization process as comfortable and as less traumatic as possible. General anesthesia is the most suitable type of anesthesia in pediatric patients with Special Needs (SN), although anesthetic complications are more frequent in these patients, mainly due to comorbidities, taken drugs and anatomical peculiarities. Some studies observed no correlation between multiple anesthesia exposures and neurodevelopmental deficits, while others reported that even a single exposure could increase the risk of deficits. An increased risk of developmental or behavioral disorders as the consequence of surgeries requiring general anesthesia was observed. Based on current studies, it is necessary to endeavor to limit the duration and numbers of anesthesia and the dose of anesthetic agents. The evaluation must include history and physical examination pertaining to the conditions requiring special anaesthetic considerations. Early diagnosis and intervention are crucial in managing these neurological disorders in pediatric patients to improve overall quality of life and long-term outcomes.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2025.22.1.0006ï
+KW  - Anesthesia
+KW  - Complications
+KW  - Disorder
+KW  - Neurological
+KW  - Pediatric
+KW  - Seizures
+PY  - 2025
+SP  - 22
+EP  - 22
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5434058
+ER  -
+TY  - JOUR
+AB  - HAL is a multidisciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L'archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. Distributed under a Creative Commons Attribution 4.0 International License Integrating traditional medicine into a modern health care system Maria I Dalamagka To cite this version: Maria I Dalamagka. Integrating traditional medicine into a modern health care system. Abstract Traditional Medicine collectively referred to as complementary and alternative medicine (CAM) when commonly used outside their traditional context, alongside other medical systems, including Western biomedicine.The World Health Organization officially promoted traditional medicine in developing countries in 1978, there have been increasing interests among developing countries in integrating traditional medicine into a national health care system. Integrating traditional medicine into a modern health care system, moreover, can benefit industrialized nations as well. The contributions of Traditional and Modern Scientific Medicines to health care delivery have attracted a great deal attention in most communities worldwide. Traditional Chinese medicine, Ayurveda, Kampo, traditional Korean medicine, and Unani have been practiced in some areas of the world and have blossomed into orderly-regulated systems of medicine. More than 80% of the world's population in over 170 of WHO's 194 Member States currently use some form of traditional medicine, such as herbal medicine, yoga, Ayurveda, acupuncture and acupressure, and indigenous therapies.To generate awareness about traditional medicine, since the 1980s, a number of publications on self-health care have been developed to inform people about the benefits and uses of traditional medicine. Some of the areas of focused research include studies on the development of anticancer drugs, cardiovascular diseases such as arteriosclerosis and angina pectoris, respiratory diseases such as bronchial asthma, obesity, diabetes and other metabolic disorders, and basic studies on acupuncture therapeutic mechanisms for various bone and joint and spinal disorders, and on different kinds of composition of the human body. To ensure the safety, standardization, efficacy and quality of traditional medicines, the practitioners must follow the same stringent standards and regulations for production and use of traditional medicines as are followed for allopathic medicines. This study aims to summarize the advancements made in understanding the efficacy, effectiveness of Traditional Medicine. Traditional and local knowledge systems need to be protected, preserved, and studied as different ways to approach modern healthcare, science, and technology at large. Significant challenges exist in integrating the differing perspectives. Traditional knowledge is derived from years of history and experience and is preserved through long, complex narrations lacking the traditionally rigorous scientific scrutiny required by modern medicine. Modern scientists are prone to quickly dismiss its merit, considering it to be irrelevant as a result. For many, traditional medicine is the first port of call, and practitioners of traditional medicine have played an important role in treating chronic illnesses. These traditional medicines and practices have been preserved, organized and modernized during the past several decades, and have been fully integrated into the national health-care delivery systems from the central to the most peripheral administrative levels.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/ijsra.2024.12.1.1046ï
+IS  - 01
+KW  - Acupuncture
+KW  - CAM
+KW  - Health
+KW  - Herbs
+KW  - Medicine
+KW  - TM
+PY  - 2024
+SP  - 2372
+EP  - 2375
+TI  - Integrating traditional medicine into a modern health care system
+T2  - International Journal of Science and Research Archive
+UR  - https://doi.org/10.30574/ijsra.2024.12.1.1046
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Autoimmune diseases in children may be linked to genetic, environmental, and hormonal factors. It's estimated that 5% of children worldwide have at least one autoimmune condition, with many experiencing multiple autoimmune challenges. Around 80 autoimmune diseases are present. However, autoimmune diseases in children are rare. When they occur they can be challenging to diagnose and difficult to treat. Advances in our knowledge of the immune system are uncovering connections between inflammation and many different diseases. All autoimmune diseases have relapsing and remitting tendencies. Autoimmune diseases can affect almost any part of the body, though they often target connective tissues (skin, muscle and joints). Symptoms can range from fatigue and mild rashes to rare, serious side effects, like seizures. Diagnosis can be difficult, because many symptoms tend to come and go and are frequently nonspecific. They occur in different kinds of autoimmune diseases as well as other types of illnesses, like infection and cancer. Autoimmune diseases occur most often in females by a 3-to-1 margin over males. Organ-specific disorders (also called localized) focus on one organ or a specific type of tissue: Addison's disease affects the adrenal glands; Autoimmune hepatitis affects the liver; Crohn's disease affects the gastrointestinal tract; Multiple sclerosis (MS) affects the central nervous system; Type 1 diabetes affects the pancreas; Ulcerative colitis affects the gastrointestinal tract. Non-organ-specific disorders (also called systemic) cause problems throughout the body: Juvenile dermatomyositis affects the skin and muscles; Juvenile idiopathic arthritis affects the joints and sometimes the skin and lungs; Lupus affects the joints, skin, liver, kidneys, heart, brain, and other organs; Scleroderma affects the skin, joints, intestine, and sometimes the lungs. Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS) are rare neurobehavioral disorders in children. Affected children may have a diverse array of perioperative manifestations including compulsive behavior, agitation, and abnormal movements. Intravenous anesthetics have anti-inflammatory properties, which in most septic cases are useful for patients. The anti-inflammatory effects of ketamine may be related to the suppression of TNF production by macrophage in the presence of bacteria. Propofol inhibits the phagocytosis and chemotaxis of human monocytes through GABAA receptors. Inhalational anesthetics, in a dose-dependent manner, suppress cytokine release, reduces lymphocyte proliferation, induce apoptosis of the lymphocytes, and inhibits the function of neutrophils. lnhalational anesthetics influence the endocrine response from the hypothalamus-pituitary-adrenal axis and indirectly through the secretions of hormones, such as glucocorticoids and catecholamines. Long-term administration of general anesthesia drugs, due to their effects on cytokines, can lead to disease progression in patients with immune deficiency.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/msabp.2025.14.1.0022ï
+KW  - Autoimmune diseases
+KW  - Children
+KW  - General anesthesia
+KW  - Immune system
+KW  - OCD
+KW  - PANDAS
+PY  - 2025
+SP  - 14
+EP  - 14
+TI  - Autoimmune diseases in children and anesthesia
+T2  - Magna Scientia Advanced Biology and Pharmacy
+UR  - https://doi.org/10.30574/msabp.2025.14.1.0022
+ER  -
+TY  - JOUR
+AB  - To cite this version: Maria I Dalamagka. Anesthesia in the elderly with colon cancer and postoperative outcome. GSC Abstract Colorectal surgery is commonly performed for colorectal cancer but morbidity and mortality remain high and vary among surgical centers. Two elderly patients with Colorectal Cancer and a history of Chronic Obstructive Pulmonary Disease underwent epidural anesthesia plus general anesthesia for colectomy surgery. In addition, Bridium was used as an inhibitor of muscle relaxation to better awaken them. The aim of the study was to evaluate the postoperative outcome of elderly patients with colorectal cancer and session disease Chronic Obstructive Pulmonary Disease, when they undergo anesthesia to perform a major surgery such as colectomy. The combination of epidural and general anesthesia showed encouraging results in the postoperative outcome of these patients and Bridium's effect on winning was significant.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2022.11.1.0113ï
+IS  - 01
+KW  - Anesthesia
+KW  - COPD
+KW  - Cancer
+KW  - Elderly
+KW  - Surgery
+PY  - 2022
+SP  - 176
+EP  - 179
+TI  - Anesthesia in the elderly with colon cancer and postoperative outcome
+T2  - GSC Advanced Research and Reviews
+UR  - https://doi.org/10.30574/gscarr.2022.11.1.0113
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - Acupuncture is used mainly to relieve discomfort associated with a variety of diseases and pain conditions Over the years there has been substantial debate about whether acupuncture really works for chronic pain. Research from an international team of experts adds to the evidence that it does provide real relief from common forms of pain. Despite wide use in clinical practice, acupuncture remains a controversial treatment for chronic pain. Referral for a course of acupuncture treatment is a reasonable option for a patient with chronic pain. The aim of the study was to assess the effectiveness of acupuncture as a treatment of chronic pain, within the context of the methodological quality of the studies. Complementary medicine databases, bibliographies and articles were searched. Our objective was to determine the effect size of acupuncture for chronic pain conditions. We searched MEDLINE and the Cochrane Central Registry of Controlled Trials randomized trial. We included randomized trials of acupuncture needling versus either sham acupuncture or no acupuncture control. We conclude that acupuncture is effective for the treatment of chronic pain, with treatment effects persisting over time.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2022.14.3.0625ï
+IS  - 03
+KW  - Acupuncture
+KW  - Back pain
+KW  - Chinese medicine
+KW  - Chronic pain
+PY  - 2022
+SP  - 602
+EP  - 607
+TI  - Pain control & acupuncture
+T2  - Pain control & acupuncture. World Journal of Advanced Research and Reviews
+UR  - https://doi.org/10.30574/wjarr.2022.14.3.0625
+VL  - 14
+ER  -
+TY  - JOUR
+AB  - To cite this version: Maria I Dalamagka. Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia. Abstract Asthma in children is associated with significant morbidity. Children with severe asthma are at increased risk for adverse outcomes including medication-related side effects, life-threatening exacerbations, and impaired quality of life. In the study, an asthmatic child with a recent cold, received general anesthesia for emergency surgery centered on sevoflurane, corticosteroids and ketamine. The purpose of this study is to demonstrate the beneficial effects of the combination of sevoflurane, ketamine and corticosteroids in asthmatic children and to prevent complications when they are given general anesthesia for emergency surgery.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2022.11.1.0108ï
+IS  - 01
+KW  - Anesthesia
+KW  - Astma
+KW  - Bronchospasm
+KW  - Corticosteroids
+KW  - Ketamine
+KW  - Sevoflurane
+PY  - 2022
+SP  - 165
+EP  - 166
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+T2  - GSC Advanced Research and Reviews
+UR  - https://doi.org/10.30574/gscarr.2022.11.1.0108
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - To cite this version: Dalamamagka Maria, Maria I Dalamagka. Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report. Abstract The combined spinal-epidural (CSE) technique, a comparatively new anesthetic choice, includes an initial subarachnoid injection followed by epidural catheter placement and subsequent administration of epidural medications. Clinical studies have demonstrated that the CSE technique provides excellent surgical conditions as quickly as with single-shot subarachnoid block conditions that are better than with epidural block alone. A 72-year-old man with pelvic tumor undergoing laparotomy surgery underwent combined regional anesthesia (Th12-O1) plus small doses of Ketamine via intravenus infusion. The combined spinal-epidural technique along with intravenous Ketamine offers a better analgesic and hemodynamic result.
+AU  - Maria, Dalamamagka
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2022.10.3.0073ï
+IS  - 03
+KW  - Anesthesia
+KW  - CSE
+KW  - Epidural
+KW  - Laparotomies
+KW  - Spinal: Ketamine
+PY  - 2022
+SP  - 176
+EP  - 178
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+T2  - GSC Advanced Research and Reviews
+UR  - https://doi.org/10.30574/gscarr.2022.10.3.0073
+VL  - 10
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria
+DO  - 10.31031/acam.2019.04.000577ï
+TI  - Acupuncture for Depression and Psychological Disorders
+UR  - https://hal.science/view/index/docid/5432466
+ER  -
+TY  - JOUR
+AB  - Childhood obesity has reached epidemic levels in developed as well as in developing countries. Overweight and obesity in childhood are known to have significant impact on both physical and psychological health. Obese 10-year-old boy undergoes general anesthesia for emergency peritonitis surgery. The purpose of this study was to study the intraoperative behavior of obese children as they are accompanied by respiratory and metabolic disorders.
+AU  - Maria I Dalamagka
+DA  - 2022/5//
+DO  - 10.30574/gscbps.2022.19.2.0206
+IS  - 2
+PB  - GSC Online Press
+PY  - 2022
+SP  - 308
+EP  - 309
+TI  - Obesity in children and general anesthesia
+T2  - GSC Biological and Pharmaceutical Sciences
+VL  - 19
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2023.17.2.0293ï
+KW  - Acupuncture
+KW  - Electroacupuncture
+KW  - Electrotherapy
+KW  - Endorphins
+KW  - Pain
+PY  - 2023
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+UR  - https://hal.science/view/index/docid/5434105
+ER  -
+TY  - JOUR
+AB  - Word "pain" derives its origin from the Indo-European root aleg meaning to suffer. Word "pain" is later and comes from the Latin word "poena" meaning punishment. Since ancient times there has been disagreement regarding the perception of pain and its evaluation. Unlike sight, hearing and smell, pain does not seem to be a primary sensation, but rather an emotional experience. Most pain researchers view pain as a complex perception, induced by noxious stimuli. Although pain is the most frequent symptom in medicine and despite the enormous advances that have been made in the field of analgesia and anesthesia, the pathophysiological mechanisms involved in its generation and maintenance are not fully understood. Definition of pain was given in 1979 by the classification committee of the international association for the study of pain (IASP) "as an unpleasant aesthetic and emotional experience, associated with actual or potential tissue damage or described in terms of such damage". In other words, although physiology and anatomy determine a precise point of reference for the detection and transmission of messages interpreted as painful, what differentiates the experience of pain is the fact that there is always an emotional gradient to the experience of pain. The purpose of the review is to investigate the analgesic system. Pain signals can be blocked at their initial point of entry into the spinal cord. Analgesia system may also inhibit pain transmission elsewhere in the nociceptive pathway. Because most drugs that alter neuronal excitability act on synaptic receptors, it has been suggested that the "morphine receptors" of the analgesia system must actually be receptors for some morphine-like neurotransmitter that is secreted normally from the brain.
+AU  - Dalamagka, Maria I
+AU  - Dalamagka, Maria
+DO  - 10.53346/wjbpr.2023.4.1.0047ï
+IS  - 01
+KW  - Enkephalins
+KW  - Nerves
+KW  - Nociceptors
+KW  - Pain
+KW  - Physiology
+KW  - Spinal
+PY  - 2023
+SP  - 1
+EP  - 005
+TI  - Mechanism of Pain
+T2  - Mechanism of Pain. World Journal of Biological and Pharmaceutical Research
+UR  - https://doi.org/10.53346/wjbpr.2023.4.1.0047
+VL  - 4
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.20.1.0238ï
+KW  - Anaesthesia
+KW  - Children
+KW  - Remifentanyl
+KW  - Sedation
+KW  - Surgery
+PY  - 2024
+TI  - Remifentanil as an anesthetic agent in children
+UR  - https://doi.org/10.30574/gscarr.2024.20.1.0238
+ER  -
+TY  - JOUR
+AB  - Acupuncture is widely used for chronic pain. The aim of the study was to assess the effectiveness of acupuncture as a treatment of chronic pain, within the context of the methodological quality of the studies. Complementary medicine databases, bibliographies and articles were searched. ,
+DO  - 10.4172/2167-0846.1000195
+IS  - 05
+PB  - OMICS Publishing Group
+PY  - 2015
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain and Migraine
+T2  - Journal of Pain & Relief
+VL  - 04
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscbps.2022.19.2.0188ï
+KW  - Anesthesia
+KW  - COPD
+KW  - Colectomy
+KW  - Epidural
+KW  - General
+KW  - Geriatric
+PY  - 2022
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+UR  - https://doi.org/10.30574/gscbps.2022.19.2.0188
+ER  -
+TY  - RPRT
+AU  - Dalamagka, Maria
+TI  - Renal failure and Quality of Llife Indicators in Kidney Transplantation
+UR  - https://hal.science/view/index/docid/5521991
+ER  -
+TY  - JOUR
+AB  - 1. Abstract Health-related quality of life (HRQL) contains many aspects of patients' health such as physical, psychological, social functioning and a general well-being. Progress in renal transplantation and im-munosuppressive therapies have increased significantly in recent decades, resulting in allograft survival rates at one year is now over 90%. Numerous clinical trials have established the importance of quality of life in a variety of diseases, and it is extremely popular to evaluate quality of life in clinical trials as a measure of patients' subjective state of health. The purpose of the study was to identify factors associated with quality of life after renal trans-plantation.
+AU  - Dalamagka, Maria
+IS  - 2
+PY  - 2022
+SP  - 1
+EP  - 2
+TI  - Renal failure and Quality of Life In-dicators in Kidney Transplantation
+T2  - Ann Clin Med Case Rep
+UR  - http://www.acmcasereport.com/
+VL  - 9
+ER  -
+TY  - RPRT
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine book
+UR  - https://hal.science/view/index/docid/5436789
+ER  -
+TY  - JOUR
+TI  - My Library - 26 Φεβ 2026.ris
+ER  -
+TY  - RPRT
+AU  - Dalamagka, Maria
+TI  - Emergency Medicine book
+UR  - https://hal.science/view/index/docid/5436789
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscbps.2022.19.2.0188ï
+KW  - Anesthesia
+KW  - COPD
+KW  - Colectomy
+KW  - Epidural
+KW  - General
+KW  - Geriatric
+PY  - 2022
+TI  - General anesthesia in Geriatric patients in combination with Epidural anesthesia in the right colectomy
+UR  - https://doi.org/10.30574/gscbps.2022.19.2.0188
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.20.1.0238ï
+KW  - Anaesthesia
+KW  - Children
+KW  - Remifentanyl
+KW  - Sedation
+KW  - Surgery
+PY  - 2024
+TI  - Remifentanil as an anesthetic agent in children
+UR  - https://doi.org/10.30574/gscarr.2024.20.1.0238
+ER  -
+TY  - JOUR
+AB  - Word "pain" derives its origin from the Indo-European root aleg meaning to suffer. Word "pain" is later and comes from the Latin word "poena" meaning punishment. Since ancient times there has been disagreement regarding the perception of pain and its evaluation. Unlike sight, hearing and smell, pain does not seem to be a primary sensation, but rather an emotional experience. Most pain researchers view pain as a complex perception, induced by noxious stimuli. Although pain is the most frequent symptom in medicine and despite the enormous advances that have been made in the field of analgesia and anesthesia, the pathophysiological mechanisms involved in its generation and maintenance are not fully understood. Definition of pain was given in 1979 by the classification committee of the international association for the study of pain (IASP) "as an unpleasant aesthetic and emotional experience, associated with actual or potential tissue damage or described in terms of such damage". In other words, although physiology and anatomy determine a precise point of reference for the detection and transmission of messages interpreted as painful, what differentiates the experience of pain is the fact that there is always an emotional gradient to the experience of pain. The purpose of the review is to investigate the analgesic system. Pain signals can be blocked at their initial point of entry into the spinal cord. Analgesia system may also inhibit pain transmission elsewhere in the nociceptive pathway. Because most drugs that alter neuronal excitability act on synaptic receptors, it has been suggested that the "morphine receptors" of the analgesia system must actually be receptors for some morphine-like neurotransmitter that is secreted normally from the brain.
+AU  - Dalamagka, Maria I
+AU  - Dalamagka, Maria
+DO  - 10.53346/wjbpr.2023.4.1.0047ï
+IS  - 01
+KW  - Enkephalins
+KW  - Nerves
+KW  - Nociceptors
+KW  - Pain
+KW  - Physiology
+KW  - Spinal
+PY  - 2023
+SP  - 1
+EP  - 005
+TI  - Mechanism of Pain
+T2  - Mechanism of Pain. World Journal of Biological and Pharmaceutical Research
+UR  - https://doi.org/10.53346/wjbpr.2023.4.1.0047
+VL  - 4
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2023.17.2.0293ï
+KW  - Acupuncture
+KW  - Electroacupuncture
+KW  - Electrotherapy
+KW  - Endorphins
+KW  - Pain
+PY  - 2023
+TI  - Acupuncture & electrotherapy: An alternative and complementary treatment method
+UR  - https://hal.science/view/index/docid/5434105
+ER  -
+TY  - JOUR
+AB  - Childhood obesity has reached epidemic levels in developed as well as in developing countries. Overweight and obesity in childhood are known to have significant impact on both physical and psychological health. Obese 10-year-old boy undergoes general anesthesia for emergency peritonitis surgery. The purpose of this study was to study the intraoperative behavior of obese children as they are accompanied by respiratory and metabolic disorders.
+AU  - Maria I Dalamagka
+DA  - 2022/5//
+DO  - 10.30574/gscbps.2022.19.2.0206
+IS  - 2
+PB  - GSC Online Press
+PY  - 2022
+SP  - 308
+EP  - 309
+TI  - Obesity in children and general anesthesia
+T2  - GSC Biological and Pharmaceutical Sciences
+VL  - 19
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria
+DO  - 10.31031/acam.2019.04.000577ï
+TI  - Acupuncture for Depression and Psychological Disorders
+UR  - https://hal.science/view/index/docid/5432466
+ER  -
+TY  - JOUR
+AB  - To cite this version: Dalamamagka Maria, Maria I Dalamagka. Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report. Abstract The combined spinal-epidural (CSE) technique, a comparatively new anesthetic choice, includes an initial subarachnoid injection followed by epidural catheter placement and subsequent administration of epidural medications. Clinical studies have demonstrated that the CSE technique provides excellent surgical conditions as quickly as with single-shot subarachnoid block conditions that are better than with epidural block alone. A 72-year-old man with pelvic tumor undergoing laparotomy surgery underwent combined regional anesthesia (Th12-O1) plus small doses of Ketamine via intravenus infusion. The combined spinal-epidural technique along with intravenous Ketamine offers a better analgesic and hemodynamic result.
+AU  - Maria, Dalamamagka
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2022.10.3.0073ï
+IS  - 03
+KW  - Anesthesia
+KW  - CSE
+KW  - Epidural
+KW  - Laparotomies
+KW  - Spinal: Ketamine
+PY  - 2022
+SP  - 176
+EP  - 178
+TI  - Combined Spinal-Epidural (CSE) technique plus ketamine in research laparotomies with vertical incision: Case report
+T2  - GSC Advanced Research and Reviews
+UR  - https://doi.org/10.30574/gscarr.2022.10.3.0073
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - To cite this version: Maria I Dalamagka. Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia. Abstract Asthma in children is associated with significant morbidity. Children with severe asthma are at increased risk for adverse outcomes including medication-related side effects, life-threatening exacerbations, and impaired quality of life. In the study, an asthmatic child with a recent cold, received general anesthesia for emergency surgery centered on sevoflurane, corticosteroids and ketamine. The purpose of this study is to demonstrate the beneficial effects of the combination of sevoflurane, ketamine and corticosteroids in asthmatic children and to prevent complications when they are given general anesthesia for emergency surgery.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2022.11.1.0108ï
+IS  - 01
+KW  - Anesthesia
+KW  - Astma
+KW  - Bronchospasm
+KW  - Corticosteroids
+KW  - Ketamine
+KW  - Sevoflurane
+PY  - 2022
+SP  - 165
+EP  - 166
+TI  - Combination of ketamine, corticosteroids and sevoflurane inhibits the risk of bronchospasm in intubated children under general anesthesia
+T2  - GSC Advanced Research and Reviews
+UR  - https://doi.org/10.30574/gscarr.2022.11.1.0108
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - Acupuncture is used mainly to relieve discomfort associated with a variety of diseases and pain conditions Over the years there has been substantial debate about whether acupuncture really works for chronic pain. Research from an international team of experts adds to the evidence that it does provide real relief from common forms of pain. Despite wide use in clinical practice, acupuncture remains a controversial treatment for chronic pain. Referral for a course of acupuncture treatment is a reasonable option for a patient with chronic pain. The aim of the study was to assess the effectiveness of acupuncture as a treatment of chronic pain, within the context of the methodological quality of the studies. Complementary medicine databases, bibliographies and articles were searched. Our objective was to determine the effect size of acupuncture for chronic pain conditions. We searched MEDLINE and the Cochrane Central Registry of Controlled Trials randomized trial. We included randomized trials of acupuncture needling versus either sham acupuncture or no acupuncture control. We conclude that acupuncture is effective for the treatment of chronic pain, with treatment effects persisting over time.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2022.14.3.0625ï
+IS  - 03
+KW  - Acupuncture
+KW  - Back pain
+KW  - Chinese medicine
+KW  - Chronic pain
+PY  - 2022
+SP  - 602
+EP  - 607
+TI  - Pain control & acupuncture
+T2  - Pain control & acupuncture. World Journal of Advanced Research and Reviews
+UR  - https://doi.org/10.30574/wjarr.2022.14.3.0625
+VL  - 14
+ER  -
+TY  - JOUR
+AB  - Autoimmune diseases in children may be linked to genetic, environmental, and hormonal factors. It's estimated that 5% of children worldwide have at least one autoimmune condition, with many experiencing multiple autoimmune challenges. Around 80 autoimmune diseases are present. However, autoimmune diseases in children are rare. When they occur they can be challenging to diagnose and difficult to treat. Advances in our knowledge of the immune system are uncovering connections between inflammation and many different diseases. All autoimmune diseases have relapsing and remitting tendencies. Autoimmune diseases can affect almost any part of the body, though they often target connective tissues (skin, muscle and joints). Symptoms can range from fatigue and mild rashes to rare, serious side effects, like seizures. Diagnosis can be difficult, because many symptoms tend to come and go and are frequently nonspecific. They occur in different kinds of autoimmune diseases as well as other types of illnesses, like infection and cancer. Autoimmune diseases occur most often in females by a 3-to-1 margin over males. Organ-specific disorders (also called localized) focus on one organ or a specific type of tissue: Addison's disease affects the adrenal glands; Autoimmune hepatitis affects the liver; Crohn's disease affects the gastrointestinal tract; Multiple sclerosis (MS) affects the central nervous system; Type 1 diabetes affects the pancreas; Ulcerative colitis affects the gastrointestinal tract. Non-organ-specific disorders (also called systemic) cause problems throughout the body: Juvenile dermatomyositis affects the skin and muscles; Juvenile idiopathic arthritis affects the joints and sometimes the skin and lungs; Lupus affects the joints, skin, liver, kidneys, heart, brain, and other organs; Scleroderma affects the skin, joints, intestine, and sometimes the lungs. Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS) are rare neurobehavioral disorders in children. Affected children may have a diverse array of perioperative manifestations including compulsive behavior, agitation, and abnormal movements. Intravenous anesthetics have anti-inflammatory properties, which in most septic cases are useful for patients. The anti-inflammatory effects of ketamine may be related to the suppression of TNF production by macrophage in the presence of bacteria. Propofol inhibits the phagocytosis and chemotaxis of human monocytes through GABAA receptors. Inhalational anesthetics, in a dose-dependent manner, suppress cytokine release, reduces lymphocyte proliferation, induce apoptosis of the lymphocytes, and inhibits the function of neutrophils. lnhalational anesthetics influence the endocrine response from the hypothalamus-pituitary-adrenal axis and indirectly through the secretions of hormones, such as glucocorticoids and catecholamines. Long-term administration of general anesthesia drugs, due to their effects on cytokines, can lead to disease progression in patients with immune deficiency.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/msabp.2025.14.1.0022ï
+KW  - Autoimmune diseases
+KW  - Children
+KW  - General anesthesia
+KW  - Immune system
+KW  - OCD
+KW  - PANDAS
+PY  - 2025
+SP  - 14
+EP  - 14
+TI  - Autoimmune diseases in children and anesthesia
+T2  - Magna Scientia Advanced Biology and Pharmacy
+UR  - https://doi.org/10.30574/msabp.2025.14.1.0022
+ER  -
+TY  - JOUR
+AB  - HAL is a multidisciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L'archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. Distributed under a Creative Commons Attribution 4.0 International License Integrating traditional medicine into a modern health care system Maria I Dalamagka To cite this version: Maria I Dalamagka. Integrating traditional medicine into a modern health care system. Abstract Traditional Medicine collectively referred to as complementary and alternative medicine (CAM) when commonly used outside their traditional context, alongside other medical systems, including Western biomedicine.The World Health Organization officially promoted traditional medicine in developing countries in 1978, there have been increasing interests among developing countries in integrating traditional medicine into a national health care system. Integrating traditional medicine into a modern health care system, moreover, can benefit industrialized nations as well. The contributions of Traditional and Modern Scientific Medicines to health care delivery have attracted a great deal attention in most communities worldwide. Traditional Chinese medicine, Ayurveda, Kampo, traditional Korean medicine, and Unani have been practiced in some areas of the world and have blossomed into orderly-regulated systems of medicine. More than 80% of the world's population in over 170 of WHO's 194 Member States currently use some form of traditional medicine, such as herbal medicine, yoga, Ayurveda, acupuncture and acupressure, and indigenous therapies.To generate awareness about traditional medicine, since the 1980s, a number of publications on self-health care have been developed to inform people about the benefits and uses of traditional medicine. Some of the areas of focused research include studies on the development of anticancer drugs, cardiovascular diseases such as arteriosclerosis and angina pectoris, respiratory diseases such as bronchial asthma, obesity, diabetes and other metabolic disorders, and basic studies on acupuncture therapeutic mechanisms for various bone and joint and spinal disorders, and on different kinds of composition of the human body. To ensure the safety, standardization, efficacy and quality of traditional medicines, the practitioners must follow the same stringent standards and regulations for production and use of traditional medicines as are followed for allopathic medicines. This study aims to summarize the advancements made in understanding the efficacy, effectiveness of Traditional Medicine. Traditional and local knowledge systems need to be protected, preserved, and studied as different ways to approach modern healthcare, science, and technology at large. Significant challenges exist in integrating the differing perspectives. Traditional knowledge is derived from years of history and experience and is preserved through long, complex narrations lacking the traditionally rigorous scientific scrutiny required by modern medicine. Modern scientists are prone to quickly dismiss its merit, considering it to be irrelevant as a result. For many, traditional medicine is the first port of call, and practitioners of traditional medicine have played an important role in treating chronic illnesses. These traditional medicines and practices have been preserved, organized and modernized during the past several decades, and have been fully integrated into the national health-care delivery systems from the central to the most peripheral administrative levels.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/ijsra.2024.12.1.1046ï
+IS  - 01
+KW  - Acupuncture
+KW  - CAM
+KW  - Health
+KW  - Herbs
+KW  - Medicine
+KW  - TM
+PY  - 2024
+SP  - 2372
+EP  - 2375
+TI  - Integrating traditional medicine into a modern health care system
+T2  - International Journal of Science and Research Archive
+UR  - https://doi.org/10.30574/ijsra.2024.12.1.1046
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Pediatric neurodegenerative disorders encompass a wide range of conditions that result from progressive damage to cells and nervous system connections that are essential for mobility, coordination, strength, sensation, and cognition. Neurodegenerative diseases affect millions of people worldwide. Neurological disorders are disorders that involve the brain, spinal cord or nerve and muscle. Children with neurological disorders may have disorders such as epilepsy, developmental delay, cerebral palsy, meningitis, genetic/metabolic diseases or diseases of muscle or nerve such as muscular dystrophy or peripheral neuropathy. These illnesses are frequently severe and potentially have long lasting consequences for the affected children. The pathologies most frequently responsible for psycho-physical disorders can be summarized into three groups: collaboration difficulties (autism spectrum disorders, intellectual impairment, phobia); motor dysfunction (cerebral palsy, epilepsy, other brain pathologies, neuromuscular disorders), and craniofacial anomalies (Down syndrome, other genetic syndromes). Due to their clinical history, and the lack of collaboration, in pediatric non-cooperative patients with Special Needs (SN), the anesthesiological risk may result difficult to assess, despite the fact that they meet the criteria of the outpatient management applied for the patient without disabilities. The perioperative management of pediatric patients with psycho-physical disorders with related relational and cognitive problems must be carefully planned, in order to make the entire hospitalization process as comfortable and as less traumatic as possible. General anesthesia is the most suitable type of anesthesia in pediatric patients with Special Needs (SN), although anesthetic complications are more frequent in these patients, mainly due to comorbidities, taken drugs and anatomical peculiarities. Some studies observed no correlation between multiple anesthesia exposures and neurodevelopmental deficits, while others reported that even a single exposure could increase the risk of deficits. An increased risk of developmental or behavioral disorders as the consequence of surgeries requiring general anesthesia was observed. Based on current studies, it is necessary to endeavor to limit the duration and numbers of anesthesia and the dose of anesthetic agents. The evaluation must include history and physical examination pertaining to the conditions requiring special anaesthetic considerations. Early diagnosis and intervention are crucial in managing these neurological disorders in pediatric patients to improve overall quality of life and long-term outcomes.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2025.22.1.0006ï
+KW  - Anesthesia
+KW  - Complications
+KW  - Disorder
+KW  - Neurological
+KW  - Pediatric
+KW  - Seizures
+PY  - 2025
+SP  - 22
+EP  - 22
+TI  - Pediatric neurodegenerative disorders and anesthesia considerations
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5434058
+ER  -
+TY  - JOUR
+AB  - One of the groups of patients which may require the greatest flexibility of approach is those with autistic spectrum disorder (ASD). ASD is a lifelong developmental disability, affecting four times as many males than females, which affects how a person communicates with, and relates to, other people and the world around them. Challenging behaviors may be triggered by the unfamiliar perioperative environment and may make anesthesia related procedures difficult or impossible. Children with more severe ASD may exhibit verbal or physical aggression, antisocial or disruptive behavior, temper tantrums, screaming, panic attacks, and self-injurious behavior, and may have aberrant responses to sensory stimuli. Although anaesthesia and sedation do not present a problem for most children with ASD, unpredictable regression in skills and behaviour is noted in a small number of patients after general anaesthesia. A 10-year-old child, 53 kg, with autism under treatment, came for a dental abscess and related dental work under general anaesthesia. The pediatric neurological assessment indicated hyperactivity and lack of cooperation. Post-operatively, during resuscitation, the child showed agitation and an attempt to withdraw oxygen, with the physical presence of his family environment.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2024.21.3.0918ï
+KW  - ASD
+KW  - Anaesthesia
+KW  - Autism
+KW  - Behavior
+KW  - Disability
+KW  - Epilepsy
+PY  - 2024
+SP  - 1656
+EP  - 1658
+TI  - Autistic Spectrum disorder and Anaesthesia Corresponding author: Maria I. Dalamagka Autistic Spectrum disorder and Anaesthesia
+T2  - Autistic Spectrum disorder and Anaesthesia. World Journal of Advanced Re-search and Reviews
+UR  - https://hal.science/view/index/docid/5434068
+VL  - 21
+ER  -
+TY  - JOUR
+AB  - Acute pain is a complex process involving activation of nociceptors, chemical mediators and inflammation. All the major children’s hospitals now have dedicated pain services to provide evaluation and immediate treatment of pain in any child. Children experience pain in a similar way to adults. Pain intensity in children depends on the surgical procedure itself but also on numerous other factors such as age, emotional state or the level of anxiety associated with the hospital stay. The perception and communication of the child’s pain depends on his or her intellectual and social development. Expression of pain therefore relies on the child’s ability to understand, quantitate and communicate it. Previous pain experiences or chronic diseases that required many medical procedures may significantly change the pain threshold in paediatric patients. Moreover, genetic predispositions and environmental effects are significant. The American Academy of Pediatrics and the American Pain Society have reiterated the importance of a multidisciplinary approach in order to eliminate pain in children. In all pediatric settings, an adequate assessment is the initial stage in a proper clinical approach to pain, especially in the emergency departments; therefore, an increasing number of age-related tools have been validated. Systemic opioids, nonsteroidal anti-inflammatory agents and regional analgesics alone or combined with additives are currently used to provide effective postoperative analgesia. These modalities are best utilized when combined as a multimodal approach to treat acute pain in the perioperative setting. The total number of behaviors that are present in the child are used to estimate his/her pain at the time of assessment. Pain assessment is important to facilitate effective postoperative pain management in these vulnerable children. The purpose of this study is to investigate acute pain as well as analgesia and availability of the used analgesic drugs in children. A multimodal approach to preventing and treating pain is usually used.
+AU  - Maria I. Dalamagka
+DA  - 2024/4//
+DO  - 10.30574/gscarr.2024.19.1.0153
+IS  - 1
+PB  - GSC Online Press
+PY  - 2024
+SP  - 161
+EP  - 164
+TI  - Acute Pain and Analgesia in children
+T2  - GSC Advanced Research and Reviews
+VL  - 19
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.19.1.0125ï
+KW  - Allergic
+KW  - Astma
+KW  - Child
+KW  - Etomidate
+KW  - Intubation
+KW  - Ketamine
+PY  - 2024
+TI  - Etomidate as anesthetic agent in asthmatic child with food allergy
+UR  - https://doi.org/10.30574/gscarr.2024.19.1.0125
+ER  -
+TY  - JOUR
+AB  - Delirium after anesthesia, also known as emergence delirium (ED) is a clinical condition in which patients have alterations to their attention, awareness, and perceptions. In children, this often results in behavioral disturbances such as crying, sobbing, thrashing and disorientation. Emergence Agitation (EA) and Emergence Delirium (ED) are commonly used interchangeably; they describe two distinct conditions with emergence delirium being described in the anesthesia literature as a state of mental confusion, agitation, and dis-inhibition marked by some degree of hyper-excitability during recovery from general anesthesia. The commonly reported incidence of emergence delirium is about 10% to 30% of paediatric patients. Risk factors associated with emergence delirium are age, preexisting behaviours, types of surgery and the use of volatile anaesthesia. Transient agitation-delirium from sevoflurane anesthesia can lead to a variety of adverse events, such as airway spasm, shedding or displaced tracheal tube, dehiscence, or bleeding. Volatile anaesthetics may affect brain activity by interfering with the balance between neuronal synaptic inhibition and excitation in the central nervous system. Elevated postoperative pain has been suggested to underlie ED. But given that ED is seen in patients undergoing MRI, pain cannot be the sole cause. Treatment options include the use of premedication, analgesic adjuvants, single dose of propofol at the conclusion of the case. Midazolam premedication, intraoperative dexmedetomidine and fentanyl were associated with lower incidence of ED. The incidence of ED in patients receiving propofol is markedly lower than those receiving sevoflurane, despite the similar rapid emergence profile of both agents. Paediatric Assessment of Emergence Delirium (PAED) scale, developed specifically for children, is a valid and reliable scale. Watcha score is a simpler, reliable tool to measure emergence behaviour. There has been considerable progress in the neuroscience of anaesthesia and the application of new pharmacological agents, but the mystery behind the exact mechanism of ED is elusive. ED is a diagnosis of exclusion once other causes have been dismiss. There is no strong evidence of long-term effects and outcomes in children who developed emergence delirium after anesthesia. Prevention may be the best treatment but no one medication is entirely effective.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/ijsra.2024.12.2.1408ï
+IS  - 02
+KW  - Agitation
+KW  - Anesthesia
+KW  - Emergence delirium
+KW  - Volatile anesthesia
+PY  - 2024
+SP  - 1577
+EP  - 1581
+TI  - Emergence Delirium in children
+T2  - International Journal of Science and Research Archive
+UR  - https://hal.science/view/index/docid/5434269
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - To cite this version: Maria I Dalamagka. Acupuncture for low back pain and migraine. Abstract Acupuncture has been increasingly used as an integrative or complementary therapy for pain. It is well-tolerated with little risk of serious adverse effects. Traditional acupuncture and nontraditional techniques, such as electroacupuncture and dry needling, often result in reported pain improvement. Acupuncture is an ancient Chinese medical practice that involves inserting thin needles into specific points on the body. Acupuncture can be used to treat a wide range of health conditions, including migraines and low back pain. Acupuncture works by stimulating the nervous system, releasing endorphins and increasing blood flow to the affected area. Acupuncture may also help to reduce inflammation and improve circulation in the body. Controlled trials have been published on pain syndromes, such as acupuncture for acute and chronic low back pain, knee osteoarthritis, headache, myofascial pain, neck pain, and fibromyalgia. For some conditions, enough data are available for systematic evaluations or meta-analyses. Acupuncture may provide modest benefits in the treatment of chronic low back pain, tension headache and chronic headache, migraine headache prophylaxis, and myofascial pain.The benefits of acupuncture for people with back pain has been well researched compared to many other conditions, with more higher quality clinical trials. This systematic review will focus on the use of acupuncture and its role in the treatment of low back pain to help better guide physicians in their practice. To determine the effects of a policy of 'use acupuncture' on headache, health status and chronic pain. The results of this study will determine if acupuncture, alone or as an adjunct to pharmacotherapy provides effective, safe and acceptable pain relief for patients.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2024.22.2.1540ï
+KW  - Acupuncture
+KW  - Complementary.
+KW  - Medicine
+KW  - Migraine
+KW  - Pain
+KW  - Therapy
+PY  - 2024
+SP  - 1269
+EP  - 1274
+TI  - Acupuncture for low back pain and migraine Corresponding author: Maria I. Dalamagka Acupuncture for low back pain and migraine
+T2  - World Journal of Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432453
+VL  - 22
+ER  -
+TY  - JOUR
+AB  - Mechanical ventilation (MV) is used to treat patients with severe coronavirus disease 2019 (COVID-19). This severe respiratory illness, typically develops 8 days after symptom onset and when it does not respond to non-invasive respiratory support, it requires advanced respiratory support, including high concentrations of inspired oxygen and mechanical ventilation. Such therapies are also required for the acute respiratory distress syndrome (ARDS), which has been widely studied over several decade. Obesity as a disease causes a restrictive lung disease and is a sufficient predisposing factor for difficult ventilation. Higher BMI patients are more likely to be young, with single organ failure, less chronic comorbidity but with increased severity of hypoxemia at presentation. Severe respiratory failure from coronavirus disease 2019 pneumonia not responding to non-invasive respiratory support requires mechanical ventilation. Although ventilation can be a life-saving therapy, it can cause further lung injury if airway pressure and flow and their timing are not tailored to the respiratory system mechanics of the individual patient. The phenomenon of "hard lung" is observed as the ventilation of the intubated patient is very arduous and recruitment requires a lot of effort. Coronavirus disease 2019-induced acute respiratory distress syndrome is more severe in morbidly obese patients. This relationship between BMI and mortality was investigated by several observational studies, but the relationship was not universally observed. Some studies found increased BMI was associated with an increased risk of requiring intubation and ventilation, but with no clear relationship with mortality. The combination is quite difficult as these patients oppose the ventilator. Our objective was to determine the association between MV for treatment of COVID-19.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.19.2.0186ï
+IS  - 02
+KW  - ARDS
+KW  - COVID-19
+KW  - MV
+KW  - Obesity
+KW  - Pneumonia
+KW  - Ventilation
+PY  - 2024
+SP  - 204
+EP  - 207
+TI  - COVID-19 and mechanical ventilation
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432471
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - Acute pain is a complex process involving activation of nociceptors, chemical mediators and inflammation. All the major children's hospitals now have dedicated pain services to provide evaluation and immediate treatment of pain in any child. Children experience pain in a similar way to adults. Pain intensity in children depends on the surgical procedure itself but also on numerous other factors such as age, emotional state or the level of anxiety associated with the hospital stay. The perception and communication of the child's pain depends on his or her intellectual and social development. Expression of pain therefore relies on the child's ability to understand, quantitate and communicate it. Previous pain experiences or chronic diseases that required many medical procedures may significantly change the pain threshold in paediatric patients. Moreover, genetic predispositions and environmental effects are significant. The American Academy of Pediatrics and the American Pain Society have reiterated the importance of a multidisciplinary approach in order to eliminate pain in children. In all pediatric settings, an adequate assessment is the initial stage in a proper clinical approach to pain, especially in the emergency departments; therefore, an increasing number of age-related tools have been validated. Systemic opioids, nonsteroidal anti-inflammatory agents and regional analgesics alone or combined with additives are currently used to provide effective postoperative analgesia. These modalities are best utilized when combined as a multimodal approach to treat acute pain in the perioperative setting. The total number of behaviors that are present in the child are used to estimate his/her pain at the time of assessment. Pain assessment is important to facilitate effective postoperative pain management in these vulnerable children. The purpose of this study is to investigate acute pain as well as analgesia and availability of the used analgesic drugs in children. A multimodal approach to preventing and treating pain is usually used.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2024.19.1.0153ï
+IS  - 01
+KW  - Analgesia
+KW  - Anesthesia
+KW  - Children
+KW  - Drugs
+KW  - Pain
+KW  - Surgery
+PY  - 2024
+SP  - 161
+EP  - 164
+TI  - Acute Pain and Analgesia in children
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432479
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - General anesthesia is defined by the American Society of Anesthesiologists as a "drug induced loss of consciousness during which patients are not arousable, even by painful stimulation". The perioperative period, immediately before, during, and after surgery, is a particularly critical time for pediatric patients. Even though anesthesia today is much safer than it has ever been, all anesthesia has an element of risk. General anesthesia has been safely given to children for many years. Improvements in inhalational and intravenous agents have increased the safety profile of general anesthesia and complication rates are low. General anesthesia has also allowed children to undergo painful or anxiety inducing procedures. General anesthesia is a complete loss of consciousness with amnesia, analgesia and neuromuscular blockade. It can be divided into three phases: induction, maintenance and emergence. Induction usually occurs with inhalational anesthetic in children until intravenous access occurs. Propofol, etomidate and ketamine are often used for induction. Maintenance of anesthesia occurs with inhalational or intravenous medications. Common inhalational anesthetics include nitrous oxide, sevoflurane or desflurane. Common intravenous medications used for maintenance are propofol and remifentanil. Typical complications in pediatric anesthesia are respiratory problems, medication errors, difficulties with the intravenous puncture and pulmonal aspiration. In the postoperative setting, nausea and vomiting, pain, and emergence delirium can be mentioned as typical complications. Side effects of anesthesia may include nausea, vomiting, drowsiness, muscle soreness and sore throat. Rare but more serious complications include adverse reactions that affect breathing, allergic reactions and irregular heart rhythms. Airway and respiratory events are the most common perioperative complications in pediatric patients. Several studies have reported on the incidence of pediatric airway-related complications. Consistently reported risk factors for serious airway complications include very young age and multiple intubation attempts. Laryngospasm was the most common cause of respiratory related arrests. Other etiologies included airway obstruction, difficult intubation, esophageal intubation, and aspiration.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/ijsra.2024.12.1.1179ï
+IS  - 01
+KW  - Anaesthesia
+KW  - Complications
+KW  - Intubation
+KW  - Laryngospasm
+KW  - Pain.
+KW  - Vomiting
+PY  - 2024
+SP  - 2924
+EP  - 2927
+TI  - Anesthesiology complications in children
+T2  - International Journal of Science and Research Archive
+UR  - https://doi.org/10.30574/ijsra.2024.12.1.1179
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Psychiatric illness is common, affecting up to 10% of the population, with around 1% diagnosed with a major psychiatric disorder. An increased mortality rate in the postoperative period for schizophrenic patients receiving chronic antipsychotic therapy has been demonstrated. According to the Diagnostic and Statistical Manual of Disease, schizophrenia-associated psychotic disorders are characterized by disturbances in emotional, behavioral and cognitive arenas, impeding on nearly every aspect of life functioning in the form of thought disorders, delusions and hallucinations. Chronic schizophrenic patients lack pain sensitivity, and have pituitary-adrenal and autonomic nerve dysfunction, abnormalities of the immune system, and water intoxication. These alterations may influence postoperative outcome. Psychotropic drugs often given in combination with each other or with other non-psychiatric drugs generally exert profound effects on the central and peripheral neurotransmitter and ionic mechanisms. The increased complications are associated with physical disorders, antipsychotic or hazardous health behaviour and interactions between antipsychotics and anaesthetic drugs. Adverse responses during anaesthesia include arrhythmias, hypotension, prolonged narcosis or coma, hyperpyrexia, post-operative ileus and post-operative confusion. Although drug interaction probably remains the most potentially serious problem current evidence suggests that psychiatric medication need not be discontinued prior to anesthesia.
+AU  - Dalamagka, Maria I
+AU  - Scientia, Magna
+DO  - 10.30574/msarr.2024.12.1.0141ï
+KW  - Cognitive dysfunction
+KW  - Mental health
+KW  - Psychiatric medication
+KW  - Schizophrenia
+PY  - 2024
+TI  - Antipsychotics and anesthetic drugs
+T2  - Magna Scientia Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432481
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Emergency defines the potential provision of rapid and effective Medical Nursing Care, in situations where life is threatened. Emergency medicine is defined as the branch of Medicine that operates within an organized EMS. Emergency Medicine System (EMS) is defined as the organized set of provision of immediate pre-hospital, in-hospital and inter-hospital care. Objectives of Emergency Medicine are the provision of an integrated system of pre-hospital, in-hospital and inter-hospital emergency care; improving the quality of emergency medical care; reduction of mortality, morbidity and disability related to injury and sudden illness. Collection of epidemiological data related to accident prevention and health promotion.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/wjarr.2024.23.2.2389ï
+IS  - 02
+KW  - Airway
+KW  - CPR.
+KW  - Emergency Medicine
+KW  - Trauma
+PY  - 2024
+SP  - 394
+EP  - 401
+TI  - Corresponding author: Maria I. Dalamagka Emergency Medicine
+T2  - Emergency Medicine. World Journal of Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5432486
+VL  - 23
+ER  -
+TY  - JOUR
+AB  - Radiation therapy is a cornerstone treatment for various types of tumors, including those in the nervous system. It uses high-energy rays or particles to destroy or damage cancer cells while attempting to spare surrounding healthy tissues. Depending on the tumor's location and type, radiation therapy can be broadly applied to larger areas like the brain or precisely targeted at smaller, well-defined tumors using techniques such as stereotactic radiosurgery. Advances in medical technology have made radiation therapy more precise, but some risk to the nervous system remains unavoidable. Head and neck cancer (HNC) is the sixth most common human malignancy with a global incidence of 650,000 cases per year. Radiotherapy (RT) is commonly used as an effective therapy to treat tumours as a definitive or adjuvant treatment. Despite the substantial advances in RT contouring and dosage delivery, patients suffer from various radiation-induced complications. Radiation therapy for nervous system tumors can lead to neurological damage, manifesting as acute, early-delayed, and late-delayed symptoms, with varying degrees of severity and impact on quality of life. The degree of neurological damage depends on factors such as the total radiation dose, the duration of treatment, the dose per session, and individual patient characteristics, including age, genetic predisposition, and overall health. For instance, children are more vulnerable to long-term effects due to the developing nature of their nervous systems, while older adults may face increased risks due to preexisting health conditions. Early-delayed effects typically appear weeks to a few months after the initiation of radiation therapy. These symptoms are generally mild and temporary, including: fatigue; ersisting tiredness, even after rest, can impact daily activities, headaches; recurring headaches may signal ongoing swelling or irritation in the brain, nausea; often linked to the continued healing process or residual swelling. In children undergoing whole-brain radiation, early-delayed symptoms can be more pronounced but often subside over time. Corticosteroids can help manage these symptoms, and physical therapy may be introduced to address any emerging motor coordination issues. Late-delayed effects are the most concerning as they occur months or even years after treatment, potentially causing permanent neurological damage. These effects may include: cognitive decline; issues with memory, attention, and problem-solving abilities, personality changes; mood swings, depression, or reduced emotional resilience, motor coordination problems; difficulty with balance or fine motor tasks, spinal cord damage; radiation near the spine may cause late-delayed myelopathy, resulting in sensory loss, muscle weakness, and Lhermitte sign (a shock-like sensation along the spine when bending the neck forward). Children treated for medulloblastoma or other brain tumors are particularly at risk for these effects due to their higher sensitivity to radiation. Long-term cognitive rehabilitation and regular neurological assessments are essential for managing these complications. Neurologic complications can be seen throughout the course of cancer diagnosis and treatment; some toxicities may not develop for years or even decades after completion of treatment, making diagnosis challenging. However, early recognition is critical as modification of therapeutic regimens can diminish long-term consequences of nervous system injury and improve a patient's quality of life. Neoadjuvant therapy consisting of either chemotherapy, radiotherapy or immunotherapy is associated with toxic effects on different organ systems. Before surgery, a comprehensive neurological examination should be performed and documented in patients suspected of having neurotoxicity. In patients with peripheral neuropathy, attention should be paid to autonomic dysregulation, as this might lead to orthostatic hypotension. The use of regional anaesthesia is not contraindicated, but pre-existing neurological GSC Advanced Research and Reviews, 2026, 26(01), 139-149 140 abnormalities should be documented. Because there is a wide variety of ICIs, the anaesthetist should pay attention to specific agents and toxicities.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2026.26.1.0015ï
+IS  - 01
+KW  - Chemotherapy
+KW  - Neoadjuvant Therapy
+KW  - Oncology
+KW  - Radiation Therapy
+KW  - Toxic Effects
+PY  - 2026
+SP  - 139
+EP  - 149
+TI  - Neuro and Radiant oncology and anesthesia considerations
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5463268
+VL  - 2026
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria
+DO  - 10.31031/nrs.2021.06.000627ï
+PY  - 2021
+TI  - Protocol of Pain
+T2  - Protocol of Pain. Novel Research in Sciences
+UR  - https://hal.science/view/index/docid/5433483
+VL  - 6
+ER  -
+TY  - JOUR
+AB  - Chronic kidney disease (CKD) is defined as either a glomerular filtration rate (GFR) of <60 ml min−1 1.73 m−2 for 3 months or more, irrespective of cause, or kidney damage leading to a decrease in GFR, present for 3 months or more. The damage may manifest as abnormalities in the composition of blood or urine, on radiological imaging, or in histology. CKD is classified into five stages depending on GFR, ranging from Stage 1-normal GFR to Stage 5-established renal failure. Patients with kidney disease undergoing surgery and anesthesia are at high risk for increased adverse events that include, cardiovascular complications and mortality, and further deterioration of renal function and development of acute kidney injury (AKI) due to perioperative injuries that are caused by hemodynamic instability, hypovolemia, or drug toxicity. Special consideration should be placed on preventing further deterioration of renal function as well as protection of existing renal function in patients with moderate to severe impairment from the effects of anesthetics and pain medications. Analgesics such as nonsteroidal anti-inflammatory drugs (NSAIDs) can contribute to a reduction of the residual renal function in CKD and should be avoided. Renal IR injury is a risk factor for acute renal failure and delayed graft function. Pathogenic factors for renal IR include, but are not limited to, the following: oxidative stress, inflammation, cellular necrosis, and apoptosis. Further clinical studies are required to address the optimal medication regimen that can be used for postoperative pain management in the more severe stages of CKD, including hemodialysis.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/msarr.2024.12.1.0149ï
+IS  - 01
+KW  - Acute kidney injury
+KW  - Chronic kidney disease
+KW  - GFR
+KW  - Renal function
+PY  - 2024
+SP  - 106
+EP  - 109
+TI  - Pathology associated with kidney failure and anesthesia Corresponding author: Maria I. Dalamagka Pathology associated with kidney failure and anesthesia
+T2  - Magna Scientia Advanced Research and Reviews
+UR  - https://doi.org/10.30574/msarr.2024.12.1.0149
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - The health-related quality of life (HRQL) contains many aspects under patients' health as physical, psychological, social function and a general prosperity. Numerous clinical studies have established the importance of quality of life in various diseases. It is extremely popular to assess the quality of life in clinical trials as a measure of the subjective state of health of patients. The HRQL, also gradually recognized as an important measure of outcome after organ transplantation. Along with other indicators related to the improvement of patient and graft survival, quality of life has been assessed as a valid outcome measure. Investigations on the quality of life are aimed to lead to a broader view of subjective health, consider that health is a puzzle of the general welfare. Kidney transplantation is the treatment of choice in end stage renal failure. Progress in renal transplantation and immunosuppressive therapies have increased significantly in recent decades, resulting in allograft survival rates at one year is now over 90%. The main goal of transplantation is to achieve maximum quality and longevity while minimizing the impact of disease and health care costs. In general, the quality of life improved after successful renal transplantation compared with patients on dialysis, and the result was more pronounced in men than in women. In these studies it seems clear that renal transplantation is not only cheaper replacement therapy over time, but also linked to lower mortality and better quality of life for patients. Abstract Introduction
+AU  - Dalamagka, Maria
+DO  - 10.13140/RG.2.2.36805.15846ï
+IS  - 2
+PY  - 2018
+SP  - 12
+EP  - 18
+TI  - The Quality of Life in Kidney Transplantation
+T2  - International Journal of Anesthesia and Relaxation
+UR  - https://hal.science/view/index/docid/5432543
+VL  - 2
+ER  -
+TY  - RPRT
+AU  - Dalamagka, Maria
+PY  - 2018
+TI  - Archives of Anesthesiology, 2018. ï¿¿hal-05432534ï¿¿ Archives of Anesthesiology V1
+UR  - https://hal.science/view/index/docid/5432534
+VL  - 2
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.36106/ijar/6115013ï
+SN  - 1978;21:6467
+TI  - THE USE OF HYPNOSIS AS A TOOL FOR RELIEVING PAIN
+UR  - https://hal.science/view/index/docid/5432521
+ER  -
+TY  - JOUR
+AB  - Remifentanil hydrochloride is an ultra-short-acting opioid that undergoes rapid metabolism by tissue and plasma esterases. Remifentanil is increasingly used as an adjuvant to general anaesthesia in neonates undergoing surgery because of its favourable haemodynamic and respiratory effects compared with other agents. The pharmacokinetic profile of remifentanil appears well suited for use in the sedation of children for short, day case procedures and remifentanil has been demonstrated to be an attractive drug for this purpose. Owing to higher clearances, younger children will require higher infusion rates of remifentanil than older children and adults to achieve equivalent plasma concentrations. Propofol and remifentanil appear to be gaining popularity for short procedures in children. Together they provide sedation, anxiolysis and analgesia, possibly best provided by separate continuous infusions. They also promote haemodynamic stability, minimal respiratory depression, with a rapid recovery profile. The use of remifentanil in neonates and young infants is increasing despite the difficulties in obtaining high standard objective evidence in this age group. Remifentanil’s pharmacokinetic and pharmacodynamic profile in this age group is similar to that of older children, which may have several theoretical advantages. Reports of a rapid development of µ-receptor tolerance with remifentanil are in conflict; activity at δ-opioid receptors may contribute. Remifentanil produce a fall in blood pressure and cardiac index, mainly as a result of a fall in heart rate. Although atropine is able to reduce the fall in heart rate, is not able to prevent completely the reduction in cardiac index. Remifentanil has been described as a titratable opioid. It has been reported to be ideally suited to the sedation of selected neurosurgical patients who require frequent neurological examinations. It may also provide suitable analgesia based sedation in mechanically ventilated children postoperatively.
+AU  - Maria I Dalamagka
+DA  - 2024/7//
+DO  - 10.30574/gscarr.2024.20.1.0238
+IS  - 1
+PB  - GSC Online Press
+PY  - 2024
+SP  - 001
+EP  - 004
+TI  - Remifentanil as an anesthetic agent in children
+T2  - GSC Advanced Research and Reviews
+VL  - 20
+ER  -
+TY  - JOUR
+AB  - Sexual differences in the structure and functions of the human brain have been the subject of much speculation ever since the time of Greek antiquity. Aristotle, designated the moment at which the male fetus receives its soul at the 40th day of gestation, whereas the female fetus was supposed to become antimated only six weeks later, around the 80th day of pregnancy. In the course of 19th century, the interest in the sexual dimorphism of the human brain grew rapidly. The first studies reported that the male brains were larger and more asymmetrical than the female brains and that men had relatively more brain substance in front of the central sulcus than behind. The existence of these comparatively minor nad seemingly random morphological sex differences in the human brain were often used in support of the biological view of that era, that men were intellectually superior to women nad that white upperclass people were superior to the other races and lower classes.
+AU  - Dalamagka, Maria I
+DO  - 10.31579/2693-4779/235ï
+IS  - 2
+KW  - X-chromosome
+KW  - behavior
+KW  - human brain
+KW  - sex hormones
+PY  - 2024
+SP  - 11
+EP  - 11
+TI  - Dimorphic Behavior and cognition
+T2  - Clinical Research and Clinical Trials
+UR  - www.auctoresonline.org
+ER  -
+TY  - JOUR
+AB  - Radiation therapy is a cornerstone treatment for various types of tumors, including those in the nervous system. It uses high-energy rays or particles to destroy or damage cancer cells while attempting to spare surrounding healthy tissues. Depending on the tumor's location and type, radiation therapy can be broadly applied to larger areas like the brain or precisely targeted at smaller, well-defined tumors using techniques such as stereotactic radiosurgery. Advances in medical technology have made radiation therapy more precise, but some risk to the nervous system remains unavoidable. Head and neck cancer (HNC) is the sixth most common human malignancy with a global incidence of 650,000 cases per year. Radiotherapy (RT) is commonly used as an effective therapy to treat tumours as a definitive or adjuvant treatment. Despite the substantial advances in RT contouring and dosage delivery, patients suffer from various radiation-induced complications. Radiation therapy for nervous system tumors can lead to neurological damage, manifesting as acute, early-delayed, and late-delayed symptoms, with varying degrees of severity and impact on quality of life. The degree of neurological damage depends on factors such as the total radiation dose, the duration of treatment, the dose per session, and individual patient characteristics, including age, genetic predisposition, and overall health. For instance, children are more vulnerable to long-term effects due to the developing nature of their nervous systems, while older adults may face increased risks due to preexisting health conditions. Early-delayed effects typically appear weeks to a few months after the initiation of radiation therapy. These symptoms are generally mild and temporary, including: fatigue; ersisting tiredness, even after rest, can impact daily activities, headaches; recurring headaches may signal ongoing swelling or irritation in the brain, nausea; often linked to the continued healing process or residual swelling. In children undergoing whole-brain radiation, early-delayed symptoms can be more pronounced but often subside over time. Corticosteroids can help manage these symptoms, and physical therapy may be introduced to address any emerging motor coordination issues. Late-delayed effects are the most concerning as they occur months or even years after treatment, potentially causing permanent neurological damage. These effects may include: cognitive decline; issues with memory, attention, and problem-solving abilities, personality changes; mood swings, depression, or reduced emotional resilience, motor coordination problems; difficulty with balance or fine motor tasks, spinal cord damage; radiation near the spine may cause late-delayed myelopathy, resulting in sensory loss, muscle weakness, and Lhermitte sign (a shock-like sensation along the spine when bending the neck forward). Children treated for medulloblastoma or other brain tumors are particularly at risk for these effects due to their higher sensitivity to radiation. Long-term cognitive rehabilitation and regular neurological assessments are essential for managing these complications. Neurologic complications can be seen throughout the course of cancer diagnosis and treatment; some toxicities may not develop for years or even decades after completion of treatment, making diagnosis challenging. However, early recognition is critical as modification of therapeutic regimens can diminish long-term consequences of nervous system injury and improve a patient's quality of life. Neoadjuvant therapy consisting of either chemotherapy, radiotherapy or immunotherapy is associated with toxic effects on different organ systems. Before surgery, a comprehensive neurological examination should be performed and documented in patients suspected of having neurotoxicity. In patients with peripheral neuropathy, attention should be paid to autonomic dysregulation, as this might lead to orthostatic hypotension. The use of regional anaesthesia is not contraindicated, but pre-existing neurological GSC Advanced Research and Reviews, 2026, 26(01), 139-149 140 abnormalities should be documented. Because there is a wide variety of ICIs, the anaesthetist should pay attention to specific agents and toxicities.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscarr.2026.26.1.0015ï
+IS  - 01
+KW  - Chemotherapy
+KW  - Neoadjuvant Therapy
+KW  - Oncology
+KW  - Radiation Therapy
+KW  - Toxic Effects
+PY  - 2026
+SP  - 139
+EP  - 149
+TI  - Neuro and Radiant oncology and anesthesia considerations
+T2  - GSC Advanced Research and Reviews
+UR  - https://hal.science/view/index/docid/5463268
+VL  - 2026
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria I
+DO  - 10.30574/msarr.2025.15.1.0124ï
+PY  - 2025
+TI  - Multiple sclerosis an chronic demyelinating disease and anesthesia management
+UR  - https://hal.science/view/index/docid/5432465
+ER  -
+TY  - JOUR
+AU  - Maria I
+AU  - Dalamagka
+DO  - 10.30574/gscarr.2024.18.2.0065ï
+KW  - Anaesthesia
+KW  - Autism
+KW  - Dental
+KW  - Disability
+KW  - Epilepsy
+PY  - 2024
+TI  - Autism and general anesthesia for dental care
+UR  - https://hal.science/view/index/docid/5434110
+ER  -
+TY  - JOUR
+AB  - Epilepsy, also called seizure disorder, is the most common childhood brain disorder in the United States. The aetiology of epilepsy in children is multifactorial with congenital, metabolic, infective, and problems associated with prematurity being common causes. Nearly 3 million Americans have epilepsy. About 450,000 of them are under 17 years old. About 1 in 200 children (0.5%) have epilepsy, a neurological condition where children have a predisposition to recurrent, unprovoked seizures. There are many different types of epilepsy, especially in infancy, childhood and adolescence. Epilepsy can be thought of in terms of either: the site of seizure origin in the brain (generalised or focal seizures), or the underlying cause. Genetic epilepsies (formerly called idiopathic or primary epilepsies) occur in an otherwise normal person and are due to a genetic predisposition to seizures. Some epilepsies are due to an underlying abnormality of the brain structure or chemistry (formerly called symptomatic or secondary epilepsies). Other epilepsies have no known cause. Epilepsy is commonly diagnosed in children and can be confused with other conditions. An accurate diagnosis is essential. A seizure is an excessive surge of electrical activity in the brain that can cause a variety of symptoms, depending on which parts of the brain are involved. Seizures can be provoked or unprovoked. Provoked seizures, caused by fever in a young child or severe hypoglycemia, are not considered to be forms of epilepsy. Unprovoked seizures have no clear cause but can be related to genetics or brain injury. When a child has two or more unprovoked seizures, epilepsy is often the diagnosis. Despite advances in antiepileptic medication therapy, a significant number of pediatric patients with epilepsy have seizures that are not well controlled. Antiepileptic medications interact with anesthetic agents, and common anesthetics can precipitate or suppress seizure activity. There are important pharmacokinetic and pharmacodynamic interactions between AEDs and drugs commonly used in anaesthesia. These affect both drug efficacy and the risk of seizure activity intraoperatively.
+AU  - Dalamagka, Maria I
+AU  - Scientia, Magna
+DO  - 10.30574/msarr.2024.12.2.0180ï
+KW  - Anesthesia
+KW  - Children
+KW  - Epilepsy
+KW  - Seizures
+KW  - Status epilepticus
+PY  - 2024
+TI  - Epilepsy in children and anesthesia
+T2  - Magna Scientia Advanced Research and Reviews
+UR  - https://doi.org/10.30574/msarr.2024.12.2.0180
+VL  - 12
+ER  -
+TY  - JOUR
+AU  - M, Dalamagka
+DA  - 2018/9//
+DO  - 10.31031/rism.2018.04.000577
+IS  - 1
+PB  - Crimson Publishers
+PY  - 2018
+TI  - Self-Hypnosis and Pain
+T2  - Research & Investigations in Sports Medicine
+VL  - 4
+ER  -
+TY  - JOUR
+AB  - HAL is a multidisciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L'archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. Distributed under a Creative Commons Attribution 4.0 International License Obesity in children and general anesthesia Maria I Dalamagka To cite this version: Maria I Dalamagka. Obesity in children and general anesthesia. Abstract Childhood obesity has reached epidemic levels in developed as well as in developing countries. Overweight and obesity in childhood are known to have significant impact on both physical and psychological health. Obese 10-year-old boy undergoes general anesthesia for emergency peritonitis surgery. The purpose of this study was to study the intraoperative behavior of obese children as they are accompanied by respiratory and metabolic disorders.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/gscbps.2022.19.2.0206ï
+IS  - 02
+KW  - Alergia
+KW  - Anesthesia
+KW  - Astma
+KW  - Bridion
+KW  - Children
+KW  - Obesity
+PY  - 2022
+SP  - 308
+EP  - 309
+TI  - Obesity in children and general anesthesia
+T2  - GSC Biological and Pharmaceutical Sciences
+UR  - https://hal.science/view/index/docid/5432493
+VL  - 19
+ER  -
+TY  - RPRT
+AB  - Childhood obesity has reached epidemic levels in developed as well as in developing countries. Overweight and obesity in childhood are known to have significant impact on both physical and psychological health. Obese 10-year-old boy undergoes general anesthesia for emergency peritonitis surgery. The purpose of this study was to study the intraoperative behavior of obese children as they are accompanied by respiratory and metabolic disorders.
+AU  - Dalamagka, Maria I
+KW  - Alergia
+KW  - Anesthesia
+KW  - Astma
+KW  - Bridion
+KW  - Children
+KW  - Obesity
+PY  - 2024
+TI  - Obesity in Children and General Anesthesia
+UR  - www.megajournalofcasereports.com
+ER  -
+TY  - RPRT
+AB  - We report 2 cases of cholecystitis and cholelithiasis in patients with obesity, chronic obstructive pulmonary disease, American Society of Anaesthesiologists classification IV, that they were treated with open cholecystectomy. In both cases, successful open cholecystectomy was performed, under thoracic epidural anaesthesia, and the patients recovered uneventfully.
+AU  - Dalamagka, Maria
+KW  - Cholecystectomy
+KW  - Chronic obstructive pulmonary disease
+PY  - 2015
+SP  - 1
+EP  - 1
+TI  - Volume 1 • Issue 1 •1000104 Dalamagka and Kontovitsis
+T2  - Pain Manage Med
+VL  - 1
+ER  -
+TY  - JOUR
+AB  - The risk of developing an addiction to alcohol, tobacco, or drugs increases in the period immediately following mild traumatic brain injury (mTBI) but decreases over time, new research shows. The historical prospective study showed that in the short-term, individuals with mTBI had a significantly increased risk for alcohol dependence, nicotine dependence, and nondependent abuse of drugs or alcohol compared with a similarly injured non-mTBI comparison group. "Our findings suggest an increased risk for incidence of alcohol dependence, nondependent abuse of drugs or alcohol, and nicotine dependence during the first 30 days following mild TBI and a risk thereafter for alcohol dependence for at least 6 months after injury," the authors, led by Shannon C. Miller, MD, from the Veterans Affairs Medical Centre, Cincinnati, Ohio, write.
+AU  - Maria, Dalamagka
+DA  - 2022/3//
+DO  - 10.54289/jaad2200103
+IS  - 1
+PB  - Acquire Publications LLC
+PY  - 2022
+SP  - 1
+EP  - 2
+TI  - Mild Brain Injury
+T2  - Journal of Anesthesia and Anesthetic Drugs
+VL  - 2
+ER  -
+TY  - RPRT
+AU  - Dalamagka, Maria
+TI  - General Anesthetics
+UR  - https://hal.science/view/index/docid/5522008
+ER  -
+TY  - RPRT
+AU  - Maria, Dalamagka
+IS  - 1
+PY  - 2021
+SP  - 1035
+EP  - 1035
+TI  - Issue 1 | Article 1035 Citation: Maria D. Pain Management
+T2  - Annals of Clinical Anesthesia Research
+VL  - 5
+ER  -
+TY  - JOUR
+AU  - Dalamagka, Maria
+DO  - 10.4172/2167-0846.1000195ï
+PY  - 2015
+SP  - 10
+EP  - 10
+TI  - Systematic Review: Acupuncture in Chronic Pain, Low Back Pain and Migraine
+T2  - Journal of Pain & Relief
+UR  - http://dx.doi.org/10.4172/2167-0846.1000195
+ER  -
+TY  - JOUR
+AB  - When acute pain progresses to chronic, then it is not a symptom of a condition, but is in itself a condition. It lasts longer than the expected course of the disease or injury. Usual period of 3-6 months. In the past the answer to chronic pain was: “everything is in your mind”. A useful definition by Margo McCaffrey is: “pain is what describes the person who experiences it and exists when he says he exists [1].” The International Union for the Study of Pain says it is “an unpleasant aesthetic and emotional experience, combined with actual or potential tissue damage, or described in terms of such damage”. Pain is transmitted through the body through the nervous system when nerve endings detect damage to a part of the body
+AU  - M, Dalamagka
+DA  - 2021/3//
+DO  - 10.31031/nrs.2021.06.000627
+IS  - 1
+PB  - Crimson Publishers
+PY  - 2021
+TI  - Protocol of Pain
+T2  - Novel Research in Sciences
+VL  - 6
+ER  -
+TY  - JOUR
+AB  - When acute pain progresses to chronic, then it is not a symptom of a condition, but is in itself a condition. It lasts longer than the expected course of the disease or injury. Usual period of 3-6 months. In the past the answer to chronic pain was: “everything is in your mind”. A useful definition by Margo McCaffrey is: “pain is what describes the person who experiences it and exists when he says he exists [1].” The International Union for the Study of Pain says it is “an unpleasant aesthetic and emotional experience, combined with actual or potential tissue damage, or described in terms of such damage”. Pain is transmitted through the body through the nervous system when nerve endings detect damage to a part of the body
+AU  - M, Dalamagka
+DA  - 2021/3//
+DO  - 10.31031/nrs.2021.06.000627
+IS  - 1
+PB  - Crimson Publishers
+PY  - 2021
+TI  - Protocol of Pain
+T2  - Novel Research in Sciences
+VL  - 6
+ER  -
+TY  - JOUR
+AB  - 1. Abstract Health-related quality of life (HRQL) contains many aspects of patients' health such as physical, psychological, social functioning and a general well-being. Progress in renal transplantation and im-munosuppressive therapies have increased significantly in recent decades, resulting in allograft survival rates at one year is now over 90%. Numerous clinical trials have established the importance of quality of life in a variety of diseases, and it is extremely popular to evaluate quality of life in clinical trials as a measure of patients' subjective state of health. The purpose of the study was to identify factors associated with quality of life after renal trans-plantation.
+AU  - Dalamagka, Maria
+IS  - 2
+PY  - 2022
+SP  - 1
+EP  - 2
+TI  - Renal failure and Quality of Life In-dicators in Kidney Transplantation
+T2  - Ann Clin Med Case Rep
+UR  - http://www.acmcasereport.com/
+VL  - 9
+ER  -
+TY  - JOUR
+TI  - diatrivi.ppsx
+ER  -
+TY  - JOUR
+TI  - PublicationsMariaDalamagka
+ER  -
+TY  - JOUR
+AB  - Chronic kidney disease (CKD) is defined as either a glomerular filtration rate (GFR) of <60 ml min−1 1.73 m−2 for 3 months or more, irrespective of cause, or kidney damage leading to a decrease in GFR, present for 3 months or more. The damage may manifest as abnormalities in the composition of blood or urine, on radiological imaging, or in histology. CKD is classified into five stages depending on GFR, ranging from Stage 1-normal GFR to Stage 5-established renal failure. Patients with kidney disease undergoing surgery and anesthesia are at high risk for increased adverse events that include, cardiovascular complications and mortality, and further deterioration of renal function and development of acute kidney injury (AKI) due to perioperative injuries that are caused by hemodynamic instability, hypovolemia, or drug toxicity. Special consideration should be placed on preventing further deterioration of renal function as well as protection of existing renal function in patients with moderate to severe impairment from the effects of anesthetics and pain medications. Analgesics such as nonsteroidal anti-inflammatory drugs (NSAIDs) can contribute to a reduction of the residual renal function in CKD and should be avoided. Renal IR injury is a risk factor for acute renal failure and delayed graft function. Pathogenic factors for renal IR include, but are not limited to, the following: oxidative stress, inflammation, cellular necrosis, and apoptosis. Further clinical studies are required to address the optimal medication regimen that can be used for postoperative pain management in the more severe stages of CKD, including hemodialysis.
+AU  - Dalamagka, Maria I
+DO  - 10.30574/msarr.2024.12.1.0149ï
+IS  - 01
+KW  - Acute kidney injury
+KW  - Chronic kidney disease
+KW  - GFR
+KW  - Renal function.
+PY  - 2024
+SP  - 106
+EP  - 109
+TI  - Pathology associated with kidney failure and anesthesia Corresponding author: Maria I. Dalamagka Pathology associated with kidney failure and anesthesia
+T2  - Magna Scientia Advanced Research and Reviews
+UR  - https://doi.org/10.30574/msarr.2024.12.1.0149
+VL  - 12
+ER  -
+TY  - JOUR
+TI  - HAL Open Archive
+ER  -
